@@ -2,6 +2,11 @@
   "version": "v2",
   "meta": {
     "updated": "2023-04-27",
+    	"display_defaults": {
+      "color_by": "clade_membership",
+      "distance_measure": "div",
+      "branch_label": "clade"
+    },
     "genome_annotations": {
       "nuc": {
         "end": 603,
