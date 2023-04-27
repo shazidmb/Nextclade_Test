@@ -1,7 +1,19 @@
 {
   "version": "v2",
   "meta": {
-    "updated": "2023-04-27",
+    "title": "Nextclade PRRSV built on 2023-04-27",
+    "updated": "2023-04-01",
+    "build_url": "https://github.com/shazidmb/Nextclade_Test",
+    "data_provenance": [
+      {
+        "name": "ISUVDL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "MD SHAZID HASAN"
+      }
+    ],
 	"display_defaults": {
       "color_by": "clade_membership",
       "distance_measure": "div",
