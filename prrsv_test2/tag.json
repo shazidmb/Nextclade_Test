@@ -19,7 +19,8 @@
     "reference": "reference.fasta",
     "sequences": "sequences.fasta",
     "tree": "tree.json",
-    "virusPropertiesJson": "virus_properties.json"
+    "virusPropertiesJson": "virus_properties.json",
+    "dataset": "dataset.json"
   },
   "metadata": {}
 }
