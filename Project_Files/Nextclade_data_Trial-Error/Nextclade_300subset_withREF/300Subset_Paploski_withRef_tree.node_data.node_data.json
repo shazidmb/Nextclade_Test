@@ -1,0 +1,28 @@
+{
+  "alignment": null,
+  "generated_by": {
+    "program": "augur",
+    "version": "14.0.0"
+  },
+  "input_tree": "300Subset_Paploski_withRef_tree.node_data.json",
+  "nodes": {
+    "\"300Subset_Paploski_withRef_tree.NEWICK\"": {
+      "branch_length": 0.0
+    },
+    "\"augur\"": {
+      "branch_length": 0.0
+    },
+    "NODE_0000000": {
+      "branch_length": 0.001
+    },
+    "null": {
+      "branch_length": 0.0
+    },
+    "}": {
+      "branch_length": 0.00986527
+    },
+    "}}": {
+      "branch_length": 0.02959069
+    }
+  }
+}

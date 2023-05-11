@@ -1,0 +1,1004 @@
+{
+  "nodes": {
+    "Seq453_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq464_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq455_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq450_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq448_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq465_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq461_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq469_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq498_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq511_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq517_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq514_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq497_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq488_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq492_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq500_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq494_L5": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq458_L2": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq653_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq668_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq687_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq689_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq670_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq662_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq672_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq660_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq674_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq667_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq671_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq677_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq690_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq682_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq593_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq640_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq618_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq609_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq626_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq655_L9": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq580_L7": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq585_L7": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq591_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq592_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq629_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq630_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq612_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq614_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq639_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq638_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq637_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq635_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq620_L8": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq526_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq528_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq538_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq529_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq560_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq570_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq530_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq537_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq536_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq551_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq555_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq564_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq565_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq546_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq562_L6": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq576_L7": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq475_L4": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq192_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq194_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq156_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq160_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq165_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq161_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq184_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq186_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq189_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq248_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq269_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq268_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq262_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq258_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq254_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq274_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq286_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq265_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq291_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq273_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq255_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq281_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq253_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq287_L1E": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq193_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq168_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq174_L1Dalpha": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq201_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq202_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq204_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq232_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq205_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq213_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq218_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq209_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq223_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq212_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq225_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq219_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq240_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq241_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq227_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq237_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq234_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq239_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq238_L1Dbeta": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq396_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq397_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq400_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq434_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq407_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq439_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq443_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq401_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq417_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq422_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq432_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq406_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq408_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq440_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq423_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq442_L1H": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq117_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq105_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq124_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq114_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq140_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq132_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq104_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq137_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq109_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq120_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq144_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq135_L1C": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq296_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq320_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq330_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq302_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq319_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq299_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq307_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq303_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq324_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq314_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq343_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq331_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq335_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq339_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq341_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq345_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq321_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq340_L1F": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq1_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq8_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq6_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq11_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq13_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq22_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq19_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq42_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq23_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq29_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq48_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq35_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq24_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq37_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq38_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq50_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq39_L1A": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq53_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq94_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq346_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq351_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq379_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq364_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq355_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq363_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq391_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq380_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq361_L1G": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq81_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq95_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq90_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq84_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq63_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq65_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq72_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq88_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq60_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq62_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq64_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    },
+    "Seq74_L1B": {
+      "vaccine": {
+        "selection_date": "2004-09-25"
+      }
+    }
+  }
+}

@@ -1,0 +1,2197 @@
+{
+	"root": {
+		"children": [
+			{
+				"children": [
+					{
+						"children": [
+							{
+								"children": [
+									{
+										"children": [
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"name": "Seq453_L2",
+																						"length": 0.0392,
+																						"height": 0.03095000000000002
+																					},
+																					{
+																						"name": "Seq464_L2",
+																						"length": 0.0291,
+																						"height": 0.04105000000000002
+																					}
+																				],
+																				"length": 0.0104,
+																				"height": 0.07015000000000002
+																			},
+																			{
+																				"name": "Seq455_L2",
+																				"length": 0.0487,
+																				"height": 0.03185
+																			}
+																		],
+																		"length": 0.00551,
+																		"height": 0.08055000000000001
+																	},
+																	{
+																		"name": "Seq450_L2",
+																		"length": 0.0345,
+																		"height": 0.05156000000000001
+																	}
+																],
+																"length": 7.13E-4,
+																"height": 0.08606000000000001
+															},
+															{
+																"children": [
+																	{
+																		"name": "Seq448_L2",
+																		"length": 0.0448,
+																		"height": 0.03117300000000002
+																	},
+																	{
+																		"name": "Seq465_L2",
+																		"length": 0.0629,
+																		"height": 0.013073000000000015
+																	}
+																],
+																"length": 0.0108,
+																"height": 0.07597300000000001
+															}
+														],
+														"length": 0.00997,
+														"height": 0.08677300000000002
+													},
+													{
+														"name": "Seq461_L2",
+														"length": 0.0688,
+														"height": 0.02794300000000001
+													}
+												],
+												"length": 0.0109,
+												"height": 0.09674300000000001
+											},
+											{
+												"children": [
+													{
+														"name": "Seq469_L2",
+														"length": 0.0647,
+														"height": 0.03546300000000001
+													},
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"name": "Seq498_L5",
+																												"length": 0.00653,
+																												"height": 0.051453000000000026
+																											},
+																											{
+																												"children": [
+																													{
+																														"name": "Seq511_L5",
+																														"length": 0.0,
+																														"height": 0.05433300000000002
+																													},
+																													{
+																														"name": "Seq517_L5",
+																														"length": 0.0,
+																														"height": 0.05433300000000002
+																													}
+																												],
+																												"length": 0.00365,
+																												"height": 0.05433300000000002
+																											}
+																										],
+																										"length": 0.00111,
+																										"height": 0.05798300000000002
+																									},
+																									{
+																										"name": "Seq514_L5",
+																										"length": 0.00669,
+																										"height": 0.05240300000000002
+																									}
+																								],
+																								"length": 0.00238,
+																								"height": 0.05909300000000002
+																							},
+																							{
+																								"name": "Seq497_L5",
+																								"length": 0.00268,
+																								"height": 0.05879300000000001
+																							}
+																						],
+																						"length": 0.00265,
+																						"height": 0.061473000000000014
+																					},
+																					{
+																						"name": "Seq488_L5",
+																						"length": 0.0232,
+																						"height": 0.040923000000000015
+																					}
+																				],
+																				"length": 0.00645,
+																				"height": 0.06412300000000001
+																			},
+																			{
+																				"name": "Seq492_L5",
+																				"length": 0.0239,
+																				"height": 0.046673000000000006
+																			}
+																		],
+																		"length": 0.00736,
+																		"height": 0.07057300000000001
+																	},
+																	{
+																		"name": "Seq500_L5",
+																		"length": 0.0355,
+																		"height": 0.04243300000000001
+																	}
+																],
+																"length": 0.00143,
+																"height": 0.077933
+															},
+															{
+																"name": "Seq494_L5",
+																"length": 0.0282,
+																"height": 0.051163000000000014
+															}
+														],
+														"length": 0.0208,
+														"height": 0.07936300000000002
+													}
+												],
+												"length": 0.00748,
+												"height": 0.100163
+											}
+										],
+										"length": 5.57E-4,
+										"height": 0.10764300000000002
+									},
+									{
+										"children": [
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"name": "Seq458_L2",
+																								"length": 0.0479,
+																								"height": 0.033850000000000005
+																							},
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"children": [
+																													{
+																														"name": "Seq653_L9",
+																														"length": 0.0335,
+																														"height": 0.037300000000000014
+																													},
+																													{
+																														"children": [
+																															{
+																																"name": "Seq668_L9",
+																																"length": 0.0174,
+																																"height": 0.0092
+																															},
+																															{
+																																"children": [
+																																	{
+																																		"name": "Seq687_L9",
+																																		"length": 0.0147,
+																																		"height": 0.0
+																																	},
+																																	{
+																																		"name": "Seq689_L9",
+																																		"length": 0.00734,
+																																		"height": 0.007360000000000005
+																																	}
+																																],
+																																"length": 0.0119,
+																																"height": 0.014700000000000005
+																															}
+																														],
+																														"length": 0.0442,
+																														"height": 0.0266
+																													}
+																												],
+																												"length": 0.00488,
+																												"height": 0.0708
+																											},
+																											{
+																												"children": [
+																													{
+																														"name": "Seq670_L9",
+																														"length": 0.0578,
+																														"height": 0.015570000000000014
+																													},
+																													{
+																														"children": [
+																															{
+																																"name": "Seq662_L9",
+																																"length": 0.0424,
+																																"height": 0.010970000000000021
+																															},
+																															{
+																																"name": "Seq672_L9",
+																																"length": 0.0359,
+																																"height": 0.017470000000000013
+																															}
+																														],
+																														"length": 0.02,
+																														"height": 0.053370000000000015
+																													}
+																												],
+																												"length": 0.00231,
+																												"height": 0.07337000000000002
+																											}
+																										],
+																										"length": 0.00341,
+																										"height": 0.07568000000000001
+																									},
+																									{
+																										"name": "Seq660_L9",
+																										"length": 0.0574,
+																										"height": 0.02169
+																									}
+																								],
+																								"length": 0.00266,
+																								"height": 0.07909000000000001
+																							}
+																						],
+																						"length": 0.00337,
+																						"height": 0.08175000000000002
+																					},
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"name": "Seq674_L9",
+																												"length": 0.0211,
+																												"height": 0.031119999999999995
+																											},
+																											{
+																												"name": "Seq667_L9",
+																												"length": 0.0235,
+																												"height": 0.02872000000000001
+																											}
+																										],
+																										"length": 0.0165,
+																										"height": 0.05222
+																									},
+																									{
+																										"children": [
+																											{
+																												"name": "Seq671_L9",
+																												"length": 0.0256,
+																												"height": 0.02292000000000001
+																											},
+																											{
+																												"name": "Seq677_L9",
+																												"length": 0.0332,
+																												"height": 0.015320000000000014
+																											}
+																										],
+																										"length": 0.0202,
+																										"height": 0.04852000000000001
+																									}
+																								],
+																								"length": 0.0135,
+																								"height": 0.06872
+																							},
+																							{
+																								"name": "Seq690_L9",
+																								"length": 0.069,
+																								"height": 0.013219999999999996
+																							}
+																						],
+																						"length": 0.0029,
+																						"height": 0.08222000000000002
+																					}
+																				],
+																				"length": 0.00217,
+																				"height": 0.08512
+																			},
+																			{
+																				"name": "Seq682_L9",
+																				"length": 0.0744,
+																				"height": 0.012890000000000013
+																			}
+																		],
+																		"length": 0.00494,
+																		"height": 0.08729
+																	},
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"name": "Seq593_L8",
+																						"length": 0.0402,
+																						"height": 0.034850000000000006
+																					},
+																					{
+																						"name": "Seq640_L8",
+																						"length": 0.0421,
+																						"height": 0.03295000000000001
+																					}
+																				],
+																				"length": 0.0128,
+																				"height": 0.07505
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Seq618_L8",
+																						"length": 0.0557,
+																						"height": 0.013249999999999998
+																					},
+																					{
+																						"children": [
+																							{
+																								"name": "Seq609_L8",
+																								"length": 0.0134,
+																								"height": 0.033250000000000016
+																							},
+																							{
+																								"name": "Seq626_L8",
+																								"length": 0.0259,
+																								"height": 0.020750000000000005
+																							}
+																						],
+																						"length": 0.0223,
+																						"height": 0.04665000000000001
+																					}
+																				],
+																				"length": 0.0189,
+																				"height": 0.06895000000000001
+																			}
+																		],
+																		"length": 0.00438,
+																		"height": 0.08785000000000001
+																	}
+																],
+																"length": 0.00376,
+																"height": 0.09223
+															},
+															{
+																"children": [
+																	{
+																		"name": "Seq655_L9",
+																		"length": 0.0548,
+																		"height": 0.03838000000000001
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Seq580_L7",
+																				"length": 0.00201,
+																				"height": 0.05077000000000001
+																			},
+																			{
+																				"name": "Seq585_L7",
+																				"length": 0.00397,
+																				"height": 0.048810000000000006
+																			}
+																		],
+																		"length": 0.0404,
+																		"height": 0.05278000000000001
+																	}
+																],
+																"length": 0.00281,
+																"height": 0.09318000000000001
+															}
+														],
+														"length": 0.00611,
+														"height": 0.09599
+													},
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"name": "Seq591_L8",
+																				"length": 0.00475,
+																				"height": 0.04468
+																			},
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"name": "Seq592_L8",
+																										"length": 1.55E-4,
+																										"height": 0.04607099999999999
+																									},
+																									{
+																										"name": "Seq629_L8",
+																										"length": 0.0,
+																										"height": 0.04622599999999999
+																									}
+																								],
+																								"length": 7.83E-4,
+																								"height": 0.04622599999999999
+																							},
+																							{
+																								"name": "Seq630_L8",
+																								"length": 0.00464,
+																								"height": 0.04236899999999999
+																							}
+																						],
+																						"length": 0.0015,
+																						"height": 0.047008999999999995
+																					},
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"name": "Seq612_L8",
+																										"length": 0.0,
+																										"height": 0.048172999999999994
+																									},
+																									{
+																										"name": "Seq614_L8",
+																										"length": -0.0,
+																										"height": 0.048172999999999994
+																									}
+																								],
+																								"length": 0.0,
+																								"height": 0.048172999999999994
+																							},
+																							{
+																								"name": "Seq639_L8",
+																								"length": 0.0,
+																								"height": 0.048172999999999994
+																							}
+																						],
+																						"length": 3.36E-4,
+																						"height": 0.048172999999999994
+																					}
+																				],
+																				"length": 9.21E-4,
+																				"height": 0.048509
+																			}
+																		],
+																		"length": 0.00128,
+																		"height": 0.04943
+																	},
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"name": "Seq638_L8",
+																						"length": 8.46E-4,
+																						"height": 0.04755300000000001
+																					},
+																					{
+																						"name": "Seq637_L8",
+																						"length": 0.0011,
+																						"height": 0.04729900000000001
+																					}
+																				],
+																				"length": 0.00154,
+																				"height": 0.04839900000000001
+																			},
+																			{
+																				"name": "Seq635_L8",
+																				"length": 0.00404,
+																				"height": 0.04589900000000001
+																			}
+																		],
+																		"length": 7.71E-4,
+																		"height": 0.04993900000000001
+																	}
+																],
+																"length": 0.00359,
+																"height": 0.050710000000000005
+															},
+															{
+																"name": "Seq620_L8",
+																"length": 0.00675,
+																"height": 0.047549999999999995
+															}
+														],
+														"length": 0.0478,
+														"height": 0.0543
+													}
+												],
+												"length": 0.00274,
+												"height": 0.10210000000000001
+											},
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"name": "Seq526_L6",
+																						"length": 0.0143,
+																						"height": 0.03107
+																					},
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"name": "Seq528_L6",
+																										"length": 0.0031,
+																										"height": 0.03368
+																									},
+																									{
+																										"name": "Seq538_L6",
+																										"length": 0.0155,
+																										"height": 0.021280000000000007
+																									}
+																								],
+																								"length": 0.0054,
+																								"height": 0.03678000000000001
+																							},
+																							{
+																								"name": "Seq529_L6",
+																								"length": 0.0158,
+																								"height": 0.02638
+																							}
+																						],
+																						"length": 0.00319,
+																						"height": 0.04218000000000001
+																					}
+																				],
+																				"length": 0.00478,
+																				"height": 0.04537000000000001
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Seq560_L6",
+																						"length": 0.0144,
+																						"height": 0.024850000000000025
+																					},
+																					{
+																						"name": "Seq570_L6",
+																						"length": 0.021,
+																						"height": 0.018250000000000016
+																					}
+																				],
+																				"length": 0.0109,
+																				"height": 0.03925000000000002
+																			}
+																		],
+																		"length": 0.00384,
+																		"height": 0.050150000000000014
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Seq530_L6",
+																				"length": 0.00853,
+																				"height": 0.03550000000000002
+																			},
+																			{
+																				"name": "Seq537_L6",
+																				"length": 0.0113,
+																				"height": 0.03273000000000001
+																			}
+																		],
+																		"length": 0.00996,
+																		"height": 0.044030000000000014
+																	}
+																],
+																"length": 0.0054,
+																"height": 0.05399000000000001
+															},
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"name": "Seq536_L6",
+																				"length": 0.0118,
+																				"height": 0.02675000000000001
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Seq551_L6",
+																						"length": 0.0105,
+																						"height": 0.024690000000000017
+																					},
+																					{
+																						"name": "Seq555_L6",
+																						"length": 0.00752,
+																						"height": 0.027670000000000014
+																					}
+																				],
+																				"length": 0.00336,
+																				"height": 0.03519000000000001
+																			}
+																		],
+																		"length": 0.00594,
+																		"height": 0.038550000000000015
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Seq564_L6",
+																				"length": 0.0,
+																				"height": 0.00699000000000001
+																			},
+																			{
+																				"name": "Seq565_L6",
+																				"length": -0.0,
+																				"height": 0.00699000000000001
+																			}
+																		],
+																		"length": 0.0375,
+																		"height": 0.00699000000000001
+																	}
+																],
+																"length": 0.0149,
+																"height": 0.044490000000000016
+															}
+														],
+														"length": 0.00295,
+														"height": 0.05939000000000001
+													},
+													{
+														"children": [
+															{
+																"name": "Seq546_L6",
+																"length": 0.0208,
+																"height": 0.03248000000000001
+															},
+															{
+																"name": "Seq562_L6",
+																"length": 0.0367,
+																"height": 0.016579999999999998
+															}
+														],
+														"length": 0.00906,
+														"height": 0.05328000000000001
+													}
+												],
+												"length": 0.0425,
+												"height": 0.062340000000000007
+											}
+										],
+										"length": 0.00336,
+										"height": 0.10484000000000002
+									}
+								],
+								"length": 0.00435,
+								"height": 0.1082
+							},
+							{
+								"name": "Seq576_L7",
+								"length": 0.0831,
+								"height": 0.029450000000000018
+							}
+						],
+						"length": 0.00506,
+						"height": 0.11255000000000001
+					},
+					{
+						"name": "Seq475_L4",
+						"length": 0.0721,
+						"height": 0.04551000000000001
+					}
+				],
+				"length": 0.00619,
+				"height": 0.11761
+			},
+			{
+				"children": [
+					{
+						"children": [
+							{
+								"children": [
+									{
+										"children": [
+											{
+												"children": [
+													{
+														"name": "Seq192_L1Dalpha",
+														"length": 0.0117,
+														"height": 0.027480000000000004
+													},
+													{
+														"name": "Seq194_L1Dalpha",
+														"length": 0.012,
+														"height": 0.02718000000000001
+													}
+												],
+												"length": 0.0659,
+												"height": 0.039180000000000006
+											},
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"name": "Seq156_L1Dalpha",
+																"length": 0.0182,
+																"height": 0.05058
+															},
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"name": "Seq160_L1Dalpha",
+																				"length": 0.00503,
+																				"height": 0.05525000000000001
+																			},
+																			{
+																				"name": "Seq165_L1Dalpha",
+																				"length": 0.0111,
+																				"height": 0.04918
+																			}
+																		],
+																		"length": 0.00609,
+																		"height": 0.06028
+																	},
+																	{
+																		"name": "Seq161_L1Dalpha",
+																		"length": 0.00681,
+																		"height": 0.05956
+																	}
+																],
+																"length": 0.00241,
+																"height": 0.06637000000000001
+															}
+														],
+														"length": 0.0139,
+														"height": 0.06878000000000001
+													},
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"name": "Seq184_L1Dalpha",
+																		"length": 0.0016,
+																		"height": 0.03968000000000001
+																	},
+																	{
+																		"name": "Seq186_L1Dalpha",
+																		"length": 6.0E-5,
+																		"height": 0.04122000000000001
+																	}
+																],
+																"length": 0.0137,
+																"height": 0.04128000000000001
+															},
+															{
+																"name": "Seq189_L1Dalpha",
+																"length": 0.015,
+																"height": 0.039980000000000016
+															}
+														],
+														"length": 0.0277,
+														"height": 0.054980000000000015
+													}
+												],
+												"length": 0.0224,
+												"height": 0.08268
+											}
+										],
+										"length": 0.0048,
+										"height": 0.10508
+									},
+									{
+										"children": [
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"name": "Seq248_L1E",
+																										"length": 0.00668,
+																										"height": 0.03482500000000001
+																									},
+																									{
+																										"name": "Seq269_L1E",
+																										"length": 0.00505,
+																										"height": 0.036455000000000015
+																									}
+																								],
+																								"length": 2.65E-4,
+																								"height": 0.041505000000000014
+																							},
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"name": "Seq268_L1E",
+																												"length": 0.00227,
+																												"height": 0.03644000000000003
+																											},
+																											{
+																												"name": "Seq262_L1E",
+																												"length": 0.00351,
+																												"height": 0.03520000000000002
+																											}
+																										],
+																										"length": 0.0017,
+																										"height": 0.03871000000000002
+																									},
+																									{
+																										"name": "Seq258_L1E",
+																										"length": 0.00839,
+																										"height": 0.03202000000000002
+																									}
+																								],
+																								"length": 0.00136,
+																								"height": 0.040410000000000015
+																							}
+																						],
+																						"length": 0.00185,
+																						"height": 0.041770000000000015
+																					},
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"name": "Seq254_L1E",
+																												"length": 0.00585,
+																												"height": 0.026530000000000026
+																											},
+																											{
+																												"name": "Seq274_L1E",
+																												"length": 0.00386,
+																												"height": 0.028520000000000018
+																											}
+																										],
+																										"length": 0.00337,
+																										"height": 0.03238000000000002
+																									},
+																									{
+																										"name": "Seq286_L1E",
+																										"length": 0.00965,
+																										"height": 0.026100000000000012
+																									}
+																								],
+																								"length": 0.0065,
+																								"height": 0.03575000000000002
+																							},
+																							{
+																								"name": "Seq265_L1E",
+																								"length": 0.0114,
+																								"height": 0.03085000000000003
+																							}
+																						],
+																						"length": 0.00137,
+																						"height": 0.042250000000000024
+																					}
+																				],
+																				"length": 0.00395,
+																				"height": 0.04362000000000002
+																			},
+																			{
+																				"name": "Seq291_L1E",
+																				"length": 0.0221,
+																				"height": 0.025470000000000007
+																			}
+																		],
+																		"length": 0.0133,
+																		"height": 0.047570000000000015
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Seq273_L1E",
+																				"length": 0.0158,
+																				"height": 0.03277000000000001
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Seq255_L1E",
+																						"length": 0.00927,
+																						"height": 0.0281
+																					},
+																					{
+																						"name": "Seq281_L1E",
+																						"length": 0.0143,
+																						"height": 0.023069999999999993
+																					}
+																				],
+																				"length": 0.0112,
+																				"height": 0.03737
+																			}
+																		],
+																		"length": 0.0123,
+																		"height": 0.04857
+																	}
+																],
+																"length": 0.0137,
+																"height": 0.06087000000000001
+															},
+															{
+																"name": "Seq253_L1E",
+																"length": 0.0249,
+																"height": 0.049670000000000006
+															}
+														],
+														"length": 0.00603,
+														"height": 0.07457
+													},
+													{
+														"name": "Seq287_L1E",
+														"length": 0.0555,
+														"height": 0.025099999999999997
+													}
+												],
+												"length": 0.0279,
+												"height": 0.0806
+											},
+											{
+												"name": "Seq193_L1Dalpha",
+												"length": 0.0839,
+												"height": 0.02460000000000001
+											}
+										],
+										"length": 0.00138,
+										"height": 0.10850000000000001
+									}
+								],
+								"length": 0.00202,
+								"height": 0.10988
+							},
+							{
+								"children": [
+									{
+										"name": "Seq168_L1Dalpha",
+										"length": 0.0413,
+										"height": 0.052500000000000005
+									},
+									{
+										"name": "Seq174_L1Dalpha",
+										"length": 0.0273,
+										"height": 0.0665
+									}
+								],
+								"length": 0.0181,
+								"height": 0.09380000000000001
+							}
+						],
+						"length": 0.00397,
+						"height": 0.11190000000000001
+					},
+					{
+						"children": [
+							{
+								"children": [
+									{
+										"children": [
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"children": [
+																													{
+																														"name": "Seq201_L1Dbeta",
+																														"length": 0.0141,
+																														"height": 0.04588900000000003
+																													},
+																													{
+																														"children": [
+																															{
+																																"children": [
+																																	{
+																																		"children": [
+																																			{
+																																				"name": "Seq202_L1Dbeta",
+																																				"length": 0.00119,
+																																				"height": 0.051879000000000036
+																																			},
+																																			{
+																																				"name": "Seq204_L1Dbeta",
+																																				"length": 0.00747,
+																																				"height": 0.04559900000000003
+																																			}
+																																		],
+																																		"length": 0.0028,
+																																		"height": 0.05306900000000003
+																																	},
+																																	{
+																																		"name": "Seq232_L1Dbeta",
+																																		"length": 0.03,
+																																		"height": 0.02586900000000003
+																																	}
+																																],
+																																"length": 0.00209,
+																																"height": 0.05586900000000003
+																															},
+																															{
+																																"name": "Seq205_L1Dbeta",
+																																"length": 0.0183,
+																																"height": 0.03965900000000003
+																															}
+																														],
+																														"length": 0.00203,
+																														"height": 0.057959000000000024
+																													}
+																												],
+																												"length": 0.00519,
+																												"height": 0.05998900000000003
+																											},
+																											{
+																												"children": [
+																													{
+																														"name": "Seq213_L1Dbeta",
+																														"length": 0.00534,
+																														"height": 0.05699900000000002
+																													},
+																													{
+																														"name": "Seq218_L1Dbeta",
+																														"length": 0.0175,
+																														"height": 0.04483900000000002
+																													}
+																												],
+																												"length": 0.00284,
+																												"height": 0.06233900000000002
+																											}
+																										],
+																										"length": 0.00246,
+																										"height": 0.06517900000000001
+																									},
+																									{
+																										"children": [
+																											{
+																												"name": "Seq209_L1Dbeta",
+																												"length": 0.00588,
+																												"height": 0.04815900000000002
+																											},
+																											{
+																												"name": "Seq223_L1Dbeta",
+																												"length": 0.00678,
+																												"height": 0.04725900000000002
+																											}
+																										],
+																										"length": 0.0136,
+																										"height": 0.05403900000000002
+																									}
+																								],
+																								"length": 0.00247,
+																								"height": 0.06763900000000002
+																							},
+																							{
+																								"name": "Seq212_L1Dbeta",
+																								"length": 0.0161,
+																								"height": 0.054009000000000015
+																							}
+																						],
+																						"length": 0.00244,
+																						"height": 0.07010900000000002
+																					},
+																					{
+																						"name": "Seq225_L1Dbeta",
+																						"length": 0.0262,
+																						"height": 0.046349000000000015
+																					}
+																				],
+																				"length": 0.00273,
+																				"height": 0.07254900000000002
+																			},
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"name": "Seq219_L1Dbeta",
+																								"length": 0.0147,
+																								"height": 0.03604900000000001
+																							},
+																							{
+																								"children": [
+																									{
+																										"name": "Seq240_L1Dbeta",
+																										"length": 0.0056,
+																										"height": 0.029949000000000017
+																									},
+																									{
+																										"name": "Seq241_L1Dbeta",
+																										"length": 0.0153,
+																										"height": 0.020249000000000017
+																									}
+																								],
+																								"length": 0.0152,
+																								"height": 0.03554900000000001
+																							}
+																						],
+																						"length": 0.0166,
+																						"height": 0.050749000000000016
+																					},
+																					{
+																						"name": "Seq227_L1Dbeta",
+																						"length": 0.0382,
+																						"height": 0.029149000000000022
+																					}
+																				],
+																				"length": 0.00793,
+																				"height": 0.06734900000000002
+																			}
+																		],
+																		"length": 0.00186,
+																		"height": 0.07527900000000001
+																	},
+																	{
+																		"name": "Seq237_L1Dbeta",
+																		"length": 0.0446,
+																		"height": 0.03253900000000001
+																	}
+																],
+																"length": 9.71E-4,
+																"height": 0.07713900000000001
+															},
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"name": "Seq234_L1Dbeta",
+																				"length": 0.0043,
+																				"height": 0.04161000000000001
+																			},
+																			{
+																				"name": "Seq239_L1Dbeta",
+																				"length": 0.00749,
+																				"height": 0.03842000000000001
+																			}
+																		],
+																		"length": 0.0117,
+																		"height": 0.045910000000000006
+																	},
+																	{
+																		"name": "Seq238_L1Dbeta",
+																		"length": 0.0205,
+																		"height": 0.037110000000000004
+																	}
+																],
+																"length": 0.0205,
+																"height": 0.05761000000000001
+															}
+														],
+														"length": 0.0167,
+														"height": 0.07811000000000001
+													},
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"name": "Seq396_L1H",
+																												"length": 0.0163,
+																												"height": 0.02337300000000002
+																											},
+																											{
+																												"name": "Seq397_L1H",
+																												"length": 0.00927,
+																												"height": 0.030403000000000013
+																											}
+																										],
+																										"length": 0.0014,
+																										"height": 0.039673000000000014
+																									},
+																									{
+																										"children": [
+																											{
+																												"name": "Seq400_L1H",
+																												"length": 0.00693,
+																												"height": 0.03109300000000001
+																											},
+																											{
+																												"name": "Seq434_L1H",
+																												"length": 0.0144,
+																												"height": 0.02362300000000002
+																											}
+																										],
+																										"length": 0.00305,
+																										"height": 0.038023000000000015
+																									}
+																								],
+																								"length": 0.00355,
+																								"height": 0.04107300000000001
+																							},
+																							{
+																								"name": "Seq407_L1H",
+																								"length": 0.0136,
+																								"height": 0.03102300000000001
+																							}
+																						],
+																						"length": 0.00176,
+																						"height": 0.04462300000000001
+																					},
+																					{
+																						"children": [
+																							{
+																								"name": "Seq439_L1H",
+																								"length": 0.0139,
+																								"height": 0.02815300000000001
+																							},
+																							{
+																								"name": "Seq443_L1H",
+																								"length": 0.0217,
+																								"height": 0.02035300000000001
+																							}
+																						],
+																						"length": 0.00433,
+																						"height": 0.04205300000000001
+																					}
+																				],
+																				"length": 7.77E-4,
+																				"height": 0.04638300000000001
+																			},
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"name": "Seq401_L1H",
+																								"length": 0.0115,
+																								"height": 0.027740000000000015
+																							},
+																							{
+																								"name": "Seq417_L1H",
+																								"length": 0.0188,
+																								"height": 0.020440000000000014
+																							}
+																						],
+																						"length": 0.00498,
+																						"height": 0.03924000000000001
+																					},
+																					{
+																						"children": [
+																							{
+																								"name": "Seq422_L1H",
+																								"length": 0.0229,
+																								"height": 0.016920000000000004
+																							},
+																							{
+																								"name": "Seq432_L1H",
+																								"length": 0.0149,
+																								"height": 0.02492000000000001
+																							}
+																						],
+																						"length": 0.0044,
+																						"height": 0.03982000000000001
+																					}
+																				],
+																				"length": 0.00294,
+																				"height": 0.04422000000000001
+																			}
+																		],
+																		"length": 0.00185,
+																		"height": 0.04716000000000001
+																	},
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"name": "Seq406_L1H",
+																						"length": 0.00116,
+																						"height": 0.023940000000000017
+																					},
+																					{
+																						"name": "Seq408_L1H",
+																						"length": 0.00889,
+																						"height": 0.016210000000000016
+																					}
+																				],
+																				"length": 0.00561,
+																				"height": 0.02510000000000001
+																			},
+																			{
+																				"name": "Seq440_L1H",
+																				"length": 0.0136,
+																				"height": 0.017110000000000014
+																			}
+																		],
+																		"length": 0.0183,
+																		"height": 0.030710000000000015
+																	}
+																],
+																"length": 0.0167,
+																"height": 0.04901000000000001
+															},
+															{
+																"children": [
+																	{
+																		"name": "Seq423_L1H",
+																		"length": 0.0233,
+																		"height": 0.03477000000000001
+																	},
+																	{
+																		"name": "Seq442_L1H",
+																		"length": 0.0255,
+																		"height": 0.032570000000000016
+																	}
+																],
+																"length": 0.00764,
+																"height": 0.05807000000000001
+															}
+														],
+														"length": 0.0291,
+														"height": 0.06571
+													}
+												],
+												"length": 0.00938,
+												"height": 0.09481
+											},
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"name": "Seq117_L1C",
+																										"length": 0.0248,
+																										"height": 0.03595000000000001
+																									},
+																									{
+																										"children": [
+																											{
+																												"name": "Seq105_L1C",
+																												"length": 0.00647,
+																												"height": 0.04822000000000001
+																											},
+																											{
+																												"name": "Seq124_L1C",
+																												"length": 0.0225,
+																												"height": 0.03219000000000001
+																											}
+																										],
+																										"length": 0.00606,
+																										"height": 0.054690000000000016
+																									}
+																								],
+																								"length": 0.00198,
+																								"height": 0.06075000000000001
+																							},
+																							{
+																								"name": "Seq114_L1C",
+																								"length": 0.0199,
+																								"height": 0.04283000000000001
+																							}
+																						],
+																						"length": 0.00276,
+																						"height": 0.06273000000000001
+																					},
+																					{
+																						"name": "Seq140_L1C",
+																						"length": 0.0273,
+																						"height": 0.03819
+																					}
+																				],
+																				"length": 0.00249,
+																				"height": 0.06549
+																			},
+																			{
+																				"name": "Seq132_L1C",
+																				"length": 0.0337,
+																				"height": 0.034280000000000005
+																			}
+																		],
+																		"length": 0.00117,
+																		"height": 0.06798000000000001
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Seq104_L1C",
+																				"length": 0.0208,
+																				"height": 0.035750000000000004
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Seq137_L1C",
+																						"length": 0.0313,
+																						"height": 0.021640000000000006
+																					},
+																					{
+																						"name": "Seq109_L1C",
+																						"length": 0.0202,
+																						"height": 0.032740000000000005
+																					}
+																				],
+																				"length": 0.00361,
+																				"height": 0.05294
+																			}
+																		],
+																		"length": 0.0126,
+																		"height": 0.05655
+																	}
+																],
+																"length": 0.0132,
+																"height": 0.06915
+															},
+															{
+																"children": [
+																	{
+																		"name": "Seq120_L1C",
+																		"length": 0.00624,
+																		"height": 0.04871000000000002
+																	},
+																	{
+																		"name": "Seq144_L1C",
+																		"length": 0.0256,
+																		"height": 0.029350000000000015
+																	}
+																],
+																"length": 0.0274,
+																"height": 0.05495000000000001
+															}
+														],
+														"length": 0.00544,
+														"height": 0.08235
+													},
+													{
+														"name": "Seq135_L1C",
+														"length": 0.045,
+														"height": 0.04279000000000001
+													}
+												],
+												"length": 0.0164,
+												"height": 0.08779
+											}
+										],
+										"length": 0.00212,
+										"height": 0.10419
+									},
+									{
+										"children": [
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"children": [
+																													{
+																														"children": [
+																															{
+																																"children": [
+																																	{
+																																		"name": "Seq296_L1F",
+																																		"length": 0.00146,
+																																		"height": 0.05863600000000001
+																																	},
+																																	{
+																																		"name": "Seq320_L1F",
+																																		"length": 0.00359,
+																																		"height": 0.056506000000000015
+																																	}
+																																],
+																																"length": 0.0015,
+																																"height": 0.06009600000000001
+																															},
+																															{
+																																"name": "Seq330_L1F",
+																																"length": 0.00521,
+																																"height": 0.056386000000000006
+																															}
+																														],
+																														"length": 0.00234,
+																														"height": 0.06159600000000001
+																													},
+																													{
+																														"name": "Seq302_L1F",
+																														"length": 0.0097,
+																														"height": 0.05423600000000002
+																													}
+																												],
+																												"length": 0.00302,
+																												"height": 0.06393600000000002
+																											},
+																											{
+																												"name": "Seq319_L1F",
+																												"length": 0.0141,
+																												"height": 0.052856000000000014
+																											}
+																										],
+																										"length": 0.00108,
+																										"height": 0.06695600000000002
+																									},
+																									{
+																										"children": [
+																											{
+																												"name": "Seq299_L1F",
+																												"length": 0.0139,
+																												"height": 0.046636000000000025
+																											},
+																											{
+																												"name": "Seq307_L1F",
+																												"length": 0.029,
+																												"height": 0.03153600000000002
+																											}
+																										],
+																										"length": 0.0075,
+																										"height": 0.06053600000000002
+																									}
+																								],
+																								"length": 7.46E-4,
+																								"height": 0.06803600000000001
+																							},
+																							{
+																								"name": "Seq303_L1F",
+																								"length": 0.0194,
+																								"height": 0.04938200000000001
+																							}
+																						],
+																						"length": 0.00183,
+																						"height": 0.06878200000000001
+																					},
+																					{
+																						"name": "Seq324_L1F",
+																						"length": 0.0284,
+																						"height": 0.04221200000000001
+																					}
+																				],
+																				"length": 0.00122,
+																				"height": 0.07061200000000001
+																			},
+																			{
+																				"name": "Seq314_L1F",
+																				"length": 0.0192,
+																				"height": 0.05263200000000001
+																			}
+																		],
+																		"length": 0.00678,
+																		"height": 0.07183200000000001
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Seq343_L1F",
+																				"length": 0.0216,
+																				"height": 0.048852000000000007
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Seq331_L1F",
+																						"length": 0.00767,
+																						"height": 0.04558200000000001
+																					},
+																					{
+																						"name": "Seq335_L1F",
+																						"length": 0.0128,
+																						"height": 0.040452
+																					}
+																				],
+																				"length": 0.0172,
+																				"height": 0.05325200000000001
+																			}
+																		],
+																		"length": 0.00816,
+																		"height": 0.07045200000000001
+																	}
+																],
+																"length": 7.18E-4,
+																"height": 0.07861200000000002
+															},
+															{
+																"children": [
+																	{
+																		"name": "Seq339_L1F",
+																		"length": 0.0328,
+																		"height": 0.043740000000000015
+																	},
+																	{
+																		"name": "Seq341_L1F",
+																		"length": 0.0395,
+																		"height": 0.037040000000000003
+																	}
+																],
+																"length": 0.00279,
+																"height": 0.07654000000000001
+															}
+														],
+														"length": 0.00156,
+														"height": 0.07933000000000001
+													},
+													{
+														"name": "Seq345_L1F",
+														"length": 0.0237,
+														"height": 0.057190000000000005
+													}
+												],
+												"length": 0.00532,
+												"height": 0.08089000000000002
+											},
+											{
+												"children": [
+													{
+														"name": "Seq321_L1F",
+														"length": 0.0175,
+														"height": 0.05711000000000001
+													},
+													{
+														"name": "Seq340_L1F",
+														"length": 0.0324,
+														"height": 0.04221000000000001
+													}
+												],
+												"length": 0.0116,
+												"height": 0.07461000000000001
+											}
+										],
+										"length": 0.0201,
+										"height": 0.08621000000000001
+									}
+								],
+								"length": 0.00642,
+								"height": 0.10631000000000002
+							},
+							{
+								"children": [
+									{
+										"children": [
+											{
+												"children": [
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"name": "Seq1_L1A",
+																		"length": 0.0292,
+																		"height": 0.047020000000000006
+																	},
+																	{
+																		"name": "Seq8_L1A",
+																		"length": 0.0408,
+																		"height": 0.03542000000000001
+																	}
+																],
+																"length": 0.00258,
+																"height": 0.07622000000000001
+															},
+															{
+																"name": "Seq6_L1A",
+																"length": 0.0224,
+																"height": 0.056400000000000006
+															}
+														],
+														"length": 0.00147,
+														"height": 0.07880000000000001
+													},
+													{
+														"name": "Seq11_L1A",
+														"length": 0.0295,
+														"height": 0.05077000000000001
+													}
+												],
+												"length": 0.00656,
+												"height": 0.08027000000000001
+											},
+											{
+												"children": [
+													{
+														"name": "Seq13_L1A",
+														"length": 0.0244,
+														"height": 0.05802
+													},
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"children": [
+																													{
+																														"name": "Seq22_L1A",
+																														"length": 0.00326,
+																														"height": 0.05664000000000001
+																													},
+																													{
+																														"name": "Seq19_L1A",
+																														"length": 0.00694,
+																														"height": 0.05296000000000001
+																													}
+																												],
+																												"length": 0.00176,
+																												"height": 0.05990000000000001
+																											},
+																											{
+																												"name": "Seq42_L1A",
+																												"length": 0.0156,
+																												"height": 0.046060000000000004
+																											}
+																										],
+																										"length": 0.001,
+																										"height": 0.061660000000000006
+																									},
+																									{
+																										"name": "Seq23_L1A",
+																										"length": 0.0107,
+																										"height": 0.051960000000000006
+																									}
+																								],
+																								"length": 0.0027,
+																								"height": 0.06266000000000001
+																							},
+																							{
+																								"name": "Seq29_L1A",
+																								"length": 0.0116,
+																								"height": 0.053760000000000016
+																							}
+																						],
+																						"length": 0.00161,
+																						"height": 0.06536
+																					},
+																					{
+																						"name": "Seq48_L1A",
+																						"length": 0.0228,
+																						"height": 0.04417
+																					}
+																				],
+																				"length": 0.00168,
+																				"height": 0.06697
+																			},
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"name": "Seq35_L1A",
+																								"length": 0.00221,
+																								"height": 0.05405
+																							},
+																							{
+																								"name": "Seq24_L1A",
+																								"length": 0.00288,
+																								"height": 0.05338000000000001
+																							}
+																						],
+																						"length": 0.00149,
+																						"height": 0.056260000000000004
+																					},
+																					{
+																						"name": "Seq37_L1A",
+																						"length": 0.00113,
+																						"height": 0.056620000000000004
+																					}
+																				],
+																				"length": 0.0109,
+																				"height": 0.05775000000000001
+																			}
+																		],
+																		"length": 8.8E-4,
+																		"height": 0.06865000000000002
+																	},
+																	{
+																		"name": "Seq38_L1A",
+																		"length": 0.011,
+																		"height": 0.05853000000000001
+																	}
+																],
+																"length": 0.00462,
+																"height": 0.06953000000000001
+															},
+															{
+																"children": [
+																	{
+																		"name": "Seq50_L1A",
+																		"length": 0.0206,
+																		"height": 0.05267300000000001
+																	},
+																	{
+																		"name": "Seq39_L1A",
+																		"length": 0.0211,
+																		"height": 0.05217300000000001
+																	}
+																],
+																"length": 8.77E-4,
+																"height": 0.073273
+															}
+														],
+														"length": 0.00827,
+														"height": 0.07415000000000001
+													}
+												],
+												"length": 0.00441,
+												"height": 0.08242000000000001
+											}
+										],
+										"length": 0.0126,
+										"height": 0.08683
+									},
+									{
+										"children": [
+											{
+												"name": "Seq53_L1B",
+												"length": 0.00988,
+												"height": 0.06775
+											},
+											{
+												"children": [
+													{
+														"name": "Seq94_L1B",
+														"length": 0.0316,
+														"height": 0.043230000000000005
+													},
+													{
+														"children": [
+															{
+																"children": [
+																	{
+																		"children": [
+																			{
+																				"children": [
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"name": "Seq346_L1G",
+																										"length": 4.0E-6,
+																										"height": 0.05442100000000001
+																									},
+																									{
+																										"name": "Seq351_L1G",
+																										"length": 0.01,
+																										"height": 0.04442500000000002
+																									}
+																								],
+																								"length": 0.00115,
+																								"height": 0.054425000000000015
+																							},
+																							{
+																								"name": "Seq379_L1G",
+																								"length": 0.0192,
+																								"height": 0.03637500000000002
+																							}
+																						],
+																						"length": 6.06E-4,
+																						"height": 0.05557500000000001
+																					},
+																					{
+																						"name": "Seq364_L1G",
+																						"length": 0.0156,
+																						"height": 0.040581000000000006
+																					}
+																				],
+																				"length": 0.00404,
+																				"height": 0.05618100000000001
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Seq355_L1G",
+																						"length": 0.0147,
+																						"height": 0.04294100000000001
+																					},
+																					{
+																						"children": [
+																							{
+																								"children": [
+																									{
+																										"name": "Seq363_L1G",
+																										"length": 0.00428,
+																										"height": 0.036191000000000015
+																									},
+																									{
+																										"name": "Seq391_L1G",
+																										"length": 0.00887,
+																										"height": 0.03160100000000002
+																									}
+																								],
+																								"length": 0.0101,
+																								"height": 0.04047100000000002
+																							},
+																							{
+																								"name": "Seq380_L1G",
+																								"length": 0.0171,
+																								"height": 0.033471000000000015
+																							}
+																						],
+																						"length": 0.00707,
+																						"height": 0.05057100000000002
+																					}
+																				],
+																				"length": 0.00258,
+																				"height": 0.05764100000000001
+																			}
+																		],
+																		"length": 8.49E-4,
+																		"height": 0.06022100000000001
+																	},
+																	{
+																		"name": "Seq361_L1G",
+																		"length": 0.0202,
+																		"height": 0.04087000000000002
+																	}
+																],
+																"length": 0.00536,
+																"height": 0.06107000000000001
+															},
+															{
+																"children": [
+																	{
+																		"name": "Seq81_L1B",
+																		"length": 0.0134,
+																		"height": 0.04726000000000001
+																	},
+																	{
+																		"children": [
+																			{
+																				"name": "Seq95_L1B",
+																				"length": 0.016,
+																				"height": 0.043370000000000006
+																			},
+																			{
+																				"children": [
+																					{
+																						"name": "Seq90_L1B",
+																						"length": 0.0136,
+																						"height": 0.044120000000000006
+																					},
+																					{
+																						"children": [
+																							{
+																								"name": "Seq84_L1B",
+																								"length": 0.0116,
+																								"height": 0.04454000000000001
+																							},
+																							{
+																								"children": [
+																									{
+																										"children": [
+																											{
+																												"name": "Seq63_L1B",
+																												"length": 0.0073,
+																												"height": 0.04747000000000001
+																											},
+																											{
+																												"name": "Seq65_L1B",
+																												"length": 0.00818,
+																												"height": 0.046590000000000006
+																											}
+																										],
+																										"length": 3.74E-4,
+																										"height": 0.05477000000000001
+																									},
+																									{
+																										"children": [
+																											{
+																												"children": [
+																													{
+																														"name": "Seq72_L1B",
+																														"length": 0.0056,
+																														"height": 0.04638400000000002
+																													},
+																													{
+																														"name": "Seq88_L1B",
+																														"length": 0.0217,
+																														"height": 0.03028400000000002
+																													}
+																												],
+																												"length": 0.00197,
+																												"height": 0.051984000000000016
+																											},
+																											{
+																												"children": [
+																													{
+																														"children": [
+																															{
+																																"name": "Seq60_L1B",
+																																"length": 4.0E-6,
+																																"height": 0.05195700000000002
+																															},
+																															{
+																																"name": "Seq62_L1B",
+																																"length": 0.0,
+																																"height": 0.05196100000000002
+																															}
+																														],
+																														"length": 0.00129,
+																														"height": 0.05196100000000002
+																													},
+																													{
+																														"children": [
+																															{
+																																"name": "Seq64_L1B",
+																																"length": 0.00148,
+																																"height": 0.04979100000000003
+																															},
+																															{
+																																"name": "Seq74_L1B",
+																																"length": 0.00859,
+																																"height": 0.042681000000000024
+																															}
+																														],
+																														"length": 0.00198,
+																														"height": 0.051271000000000025
+																													}
+																												],
+																												"length": 7.03E-4,
+																												"height": 0.05325100000000002
+																											}
+																										],
+																										"length": 0.00119,
+																										"height": 0.053954000000000016
+																									}
+																								],
+																								"length": 9.96E-4,
+																								"height": 0.05514400000000001
+																							}
+																						],
+																						"length": 0.00158,
+																						"height": 0.05614000000000001
+																					}
+																				],
+																				"length": 0.00165,
+																				"height": 0.05772000000000001
+																			}
+																		],
+																		"length": 0.00129,
+																		"height": 0.059370000000000006
+																	}
+																],
+																"length": 0.00577,
+																"height": 0.060660000000000006
+															}
+														],
+														"length": 0.0084,
+														"height": 0.06643000000000002
+													}
+												],
+												"length": 0.0028,
+												"height": 0.07483000000000001
+											}
+										],
+										"length": 0.0218,
+										"height": 0.07763
+									}
+								],
+								"length": 0.0133,
+								"height": 0.09943
+							}
+						],
+						"length": 0.00314,
+						"height": 0.11273000000000001
+					}
+				],
+				"length": 0.00793,
+				"height": 0.11587
+			}
+		],
+		"height": 0.12380000000000001
+	},
+
+	"origin":"2013.34520547945",
+}

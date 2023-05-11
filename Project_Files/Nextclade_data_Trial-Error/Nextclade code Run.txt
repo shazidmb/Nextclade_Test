@@ -1,0 +1,58 @@
+nextclade run \
+--input-dataset C:/Nextclade/data/PRRSV_sequences \
+--output-all=output/ \
+C:/Nextclade/data/PRRSV_sequences/690_documents_from_Paploski2021.fasta
+
+C:\Users\shazid\prrsv_run2
+
+nextclade run --input-dataset prrsv_run2 --output-all=output/ C:/Nextclade/data/PRRSV_sequences/690_documents_from_Paploski2021.fasta
+
+
+
+
+augur:
+ 
+1. augur traits
+ augur traits --tree 300Subset_Paploski_withRef_tree.NEWICK --metadata node.txt --columns generic  \
+--output-node-data output_node.json
+
+error:
+ValueError: Metadata file node.txt does not contain `name` or `strain`
+
+
+
+**
+2. augur refine
+augur refine --tree 300Subset_Paploski_withRef_tree.NEWICK --output-tree 300subset_tree_refined.nwk
+augur refine is using TreeTime version 0.8.6
+Warning: To root without inferring a timetree, you must specify an explicit outgroup.
+        Proceeding without re-rooting. To suppress this message, use '--keep-root'.
+
+updated tree written to 300subset_tree_refined.nwk
+node attributes written to 300Subset_Paploski_withRef_tree.node_data.json
+
+
+**
+augur traits --tree 300Subset_Paploski_withRef_tree.node_data.json --metadata node.txt --columns generic  \
+--output-node-data output_node.json
+
+error: 
+TypeError: '<' not supported between instances of 'str' and 'NoneType'
+
+**Finally worked:
+augur traits --tree 300subset-tree.nwk --metadata node.txt --columns generic  --output-node-data output_node.json
+augur traits is using TreeTime version 0.8.6
+WARNING: no states found for discrete state reconstruction.
+
+Inferred ancestral states of discrete character using TreeTime:
+        Sagulenko et al. TreeTime: Maximum-likelihood phylodynamic analysis
+        Virus Evolution, vol 4, https://academic.oup.com/ve/article/4/1/vex042/4794731
+
+results written to output_node.json
+
+
+
+
+augur export v2 --tree 300subset-tree.nwk --node-data node_augurv2.json --output tree.json
+
+

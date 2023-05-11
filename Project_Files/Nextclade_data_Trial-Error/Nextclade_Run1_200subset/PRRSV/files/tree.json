@@ -1,0 +1,3204 @@
+{
+  "meta": {
+    "colorings": [],
+    "filters": [],
+    "panels": [
+      "tree"
+    ],
+    "updated": "2023-04-11"
+  },
+  "tree": {
+    "branch_attrs": {},
+    "children": [
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq453_L2",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq464_L2",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq455_L2",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq450_L2",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq448_L2",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq465_L2",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq461_L2",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq469_L2",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq498_L5",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq511_L5",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq517_L5",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq514_L5",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq497_L5",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq488_L5",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq492_L5",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq500_L5",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "Seq494_L5",
+                                "node_attrs": {
+                                  "vaccine": {
+                                    "selection_date": "2004-09-25"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      }
+                    ],
+                    "name": null,
+                    "node_attrs": {}
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq458_L2",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq653_L9",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq668_L9",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              },
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "children": [
+                                                                  {
+                                                                    "branch_attrs": {},
+                                                                    "name": "Seq687_L9",
+                                                                    "node_attrs": {
+                                                                      "vaccine": {
+                                                                        "selection_date": "2004-09-25"
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  {
+                                                                    "branch_attrs": {},
+                                                                    "name": "Seq689_L9",
+                                                                    "node_attrs": {
+                                                                      "vaccine": {
+                                                                        "selection_date": "2004-09-25"
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                ],
+                                                                "name": null,
+                                                                "node_attrs": {}
+                                                              }
+                                                            ],
+                                                            "name": null,
+                                                            "node_attrs": {}
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq670_L9",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq662_L9",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              },
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq672_L9",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              }
+                                                            ],
+                                                            "name": null,
+                                                            "node_attrs": {}
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq660_L9",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq674_L9",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq667_L9",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq671_L9",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq677_L9",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq690_L9",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq682_L9",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq593_L8",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq640_L8",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq618_L8",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq609_L8",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq626_L8",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq655_L9",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq580_L7",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq585_L7",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq591_L8",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq592_L8",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq629_L8",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq630_L8",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq612_L8",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq614_L8",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq639_L8",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq638_L8",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq637_L8",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq635_L8",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "Seq620_L8",
+                                "node_attrs": {
+                                  "vaccine": {
+                                    "selection_date": "2004-09-25"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq526_L6",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq528_L6",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq538_L6",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq529_L6",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq560_L6",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq570_L6",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq530_L6",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq537_L6",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq536_L6",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq551_L6",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq555_L6",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq564_L6",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq565_L6",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "Seq546_L6",
+                                "node_attrs": {
+                                  "vaccine": {
+                                    "selection_date": "2004-09-25"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "Seq562_L6",
+                                "node_attrs": {
+                                  "vaccine": {
+                                    "selection_date": "2004-09-25"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      }
+                    ],
+                    "name": null,
+                    "node_attrs": {}
+                  }
+                ],
+                "name": null,
+                "node_attrs": {}
+              },
+              {
+                "branch_attrs": {},
+                "name": "Seq576_L7",
+                "node_attrs": {
+                  "vaccine": {
+                    "selection_date": "2004-09-25"
+                  }
+                }
+              }
+            ],
+            "name": null,
+            "node_attrs": {}
+          },
+          {
+            "branch_attrs": {},
+            "name": "Seq475_L4",
+            "node_attrs": {
+              "vaccine": {
+                "selection_date": "2004-09-25"
+              }
+            }
+          }
+        ],
+        "name": null,
+        "node_attrs": {}
+      },
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq192_L1Dalpha",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq194_L1Dalpha",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "Seq156_L1Dalpha",
+                                "node_attrs": {
+                                  "vaccine": {
+                                    "selection_date": "2004-09-25"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq160_L1Dalpha",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq165_L1Dalpha",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq161_L1Dalpha",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq184_L1Dalpha",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq186_L1Dalpha",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "Seq189_L1Dalpha",
+                                "node_attrs": {
+                                  "vaccine": {
+                                    "selection_date": "2004-09-25"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      }
+                    ],
+                    "name": null,
+                    "node_attrs": {}
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq248_L1E",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq269_L1E",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq268_L1E",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq262_L1E",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq258_L1E",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq254_L1E",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq274_L1E",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq286_L1E",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq265_L1E",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq291_L1E",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq273_L1E",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq255_L1E",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq281_L1E",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "Seq253_L1E",
+                                "node_attrs": {
+                                  "vaccine": {
+                                    "selection_date": "2004-09-25"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq287_L1E",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "Seq193_L1Dalpha",
+                        "node_attrs": {
+                          "vaccine": {
+                            "selection_date": "2004-09-25"
+                          }
+                        }
+                      }
+                    ],
+                    "name": null,
+                    "node_attrs": {}
+                  }
+                ],
+                "name": null,
+                "node_attrs": {}
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "Seq168_L1Dalpha",
+                    "node_attrs": {
+                      "vaccine": {
+                        "selection_date": "2004-09-25"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "Seq174_L1Dalpha",
+                    "node_attrs": {
+                      "vaccine": {
+                        "selection_date": "2004-09-25"
+                      }
+                    }
+                  }
+                ],
+                "name": null,
+                "node_attrs": {}
+              }
+            ],
+            "name": null,
+            "node_attrs": {}
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq201_L1Dbeta",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "children": [
+                                                                  {
+                                                                    "branch_attrs": {},
+                                                                    "children": [
+                                                                      {
+                                                                        "branch_attrs": {},
+                                                                        "name": "Seq202_L1Dbeta",
+                                                                        "node_attrs": {
+                                                                          "vaccine": {
+                                                                            "selection_date": "2004-09-25"
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      {
+                                                                        "branch_attrs": {},
+                                                                        "name": "Seq204_L1Dbeta",
+                                                                        "node_attrs": {
+                                                                          "vaccine": {
+                                                                            "selection_date": "2004-09-25"
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    ],
+                                                                    "name": null,
+                                                                    "node_attrs": {}
+                                                                  },
+                                                                  {
+                                                                    "branch_attrs": {},
+                                                                    "name": "Seq232_L1Dbeta",
+                                                                    "node_attrs": {
+                                                                      "vaccine": {
+                                                                        "selection_date": "2004-09-25"
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                ],
+                                                                "name": null,
+                                                                "node_attrs": {}
+                                                              },
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq205_L1Dbeta",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              }
+                                                            ],
+                                                            "name": null,
+                                                            "node_attrs": {}
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq213_L1Dbeta",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq218_L1Dbeta",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq209_L1Dbeta",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq223_L1Dbeta",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq212_L1Dbeta",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq225_L1Dbeta",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq219_L1Dbeta",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq240_L1Dbeta",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq241_L1Dbeta",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq227_L1Dbeta",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq237_L1Dbeta",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq234_L1Dbeta",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq239_L1Dbeta",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq238_L1Dbeta",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq396_L1H",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq397_L1H",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq400_L1H",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq434_L1H",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq407_L1H",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq439_L1H",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq443_L1H",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq401_L1H",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq417_L1H",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq422_L1H",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq432_L1H",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq406_L1H",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq408_L1H",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq440_L1H",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq423_L1H",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq442_L1H",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq117_L1C",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq105_L1C",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq124_L1C",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq114_L1C",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq140_L1C",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq132_L1C",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq104_L1C",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq137_L1C",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq109_L1C",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq120_L1C",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq144_L1C",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq135_L1C",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      }
+                    ],
+                    "name": null,
+                    "node_attrs": {}
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "children": [
+                                                                  {
+                                                                    "branch_attrs": {},
+                                                                    "name": "Seq296_L1F",
+                                                                    "node_attrs": {
+                                                                      "vaccine": {
+                                                                        "selection_date": "2004-09-25"
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  {
+                                                                    "branch_attrs": {},
+                                                                    "name": "Seq320_L1F",
+                                                                    "node_attrs": {
+                                                                      "vaccine": {
+                                                                        "selection_date": "2004-09-25"
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                ],
+                                                                "name": null,
+                                                                "node_attrs": {}
+                                                              },
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq330_L1F",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              }
+                                                            ],
+                                                            "name": null,
+                                                            "node_attrs": {}
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq302_L1F",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq319_L1F",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq299_L1F",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq307_L1F",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq303_L1F",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq324_L1F",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq314_L1F",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq343_L1F",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq331_L1F",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq335_L1F",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq339_L1F",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq341_L1F",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq345_L1F",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq321_L1F",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq340_L1F",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      }
+                    ],
+                    "name": null,
+                    "node_attrs": {}
+                  }
+                ],
+                "name": null,
+                "node_attrs": {}
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq1_L1A",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq8_L1A",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "Seq6_L1A",
+                                "node_attrs": {
+                                  "vaccine": {
+                                    "selection_date": "2004-09-25"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq11_L1A",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq13_L1A",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq22_L1A",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq19_L1A",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq42_L1A",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq23_L1A",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq29_L1A",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq48_L1A",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq35_L1A",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq24_L1A",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq37_L1A",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq38_L1A",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq50_L1A",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq39_L1A",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      }
+                    ],
+                    "name": null,
+                    "node_attrs": {}
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "Seq53_L1B",
+                        "node_attrs": {
+                          "vaccine": {
+                            "selection_date": "2004-09-25"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "Seq94_L1B",
+                            "node_attrs": {
+                              "vaccine": {
+                                "selection_date": "2004-09-25"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq346_L1G",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq351_L1G",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq379_L1G",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq364_L1G",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq355_L1G",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq363_L1G",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "Seq391_L1G",
+                                                    "node_attrs": {
+                                                      "vaccine": {
+                                                        "selection_date": "2004-09-25"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq380_L1G",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq361_L1G",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "Seq81_L1B",
+                                    "node_attrs": {
+                                      "vaccine": {
+                                        "selection_date": "2004-09-25"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "Seq95_L1B",
+                                        "node_attrs": {
+                                          "vaccine": {
+                                            "selection_date": "2004-09-25"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "Seq90_L1B",
+                                            "node_attrs": {
+                                              "vaccine": {
+                                                "selection_date": "2004-09-25"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "Seq84_L1B",
+                                                "node_attrs": {
+                                                  "vaccine": {
+                                                    "selection_date": "2004-09-25"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq63_L1B",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "Seq65_L1B",
+                                                        "node_attrs": {
+                                                          "vaccine": {
+                                                            "selection_date": "2004-09-25"
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq72_L1B",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "name": "Seq88_L1B",
+                                                            "node_attrs": {
+                                                              "vaccine": {
+                                                                "selection_date": "2004-09-25"
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq60_L1B",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              },
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq62_L1B",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              }
+                                                            ],
+                                                            "name": null,
+                                                            "node_attrs": {}
+                                                          },
+                                                          {
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq64_L1B",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              },
+                                                              {
+                                                                "branch_attrs": {},
+                                                                "name": "Seq74_L1B",
+                                                                "node_attrs": {
+                                                                  "vaccine": {
+                                                                    "selection_date": "2004-09-25"
+                                                                  }
+                                                                }
+                                                              }
+                                                            ],
+                                                            "name": null,
+                                                            "node_attrs": {}
+                                                          }
+                                                        ],
+                                                        "name": null,
+                                                        "node_attrs": {}
+                                                      }
+                                                    ],
+                                                    "name": null,
+                                                    "node_attrs": {}
+                                                  }
+                                                ],
+                                                "name": null,
+                                                "node_attrs": {}
+                                              }
+                                            ],
+                                            "name": null,
+                                            "node_attrs": {}
+                                          }
+                                        ],
+                                        "name": null,
+                                        "node_attrs": {}
+                                      }
+                                    ],
+                                    "name": null,
+                                    "node_attrs": {}
+                                  }
+                                ],
+                                "name": null,
+                                "node_attrs": {}
+                              }
+                            ],
+                            "name": null,
+                            "node_attrs": {}
+                          }
+                        ],
+                        "name": null,
+                        "node_attrs": {}
+                      }
+                    ],
+                    "name": null,
+                    "node_attrs": {}
+                  }
+                ],
+                "name": null,
+                "node_attrs": {}
+              }
+            ],
+            "name": null,
+            "node_attrs": {}
+          }
+        ],
+        "name": null,
+        "node_attrs": {}
+      }
+    ],
+    "name": null,
+    "node_attrs": {}
+  },
+  "version": "v2"
+}

@@ -1,0 +1,27 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "14.0.0"
+  },
+  "models": {},
+  "nodes": {
+    "\"300Subset_Paploski_withRef_tree.NEWICK\"": {
+      "generic": null
+    },
+    "\"augur\"": {
+      "generic": null
+    },
+    "NODE_0000000": {
+      "generic": null
+    },
+    "null": {
+      "generic": null
+    },
+    "}": {
+      "generic": null
+    },
+    "}}": {
+      "generic": null
+    }
+  }
+}

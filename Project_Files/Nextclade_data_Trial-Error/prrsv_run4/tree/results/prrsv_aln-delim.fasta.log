@@ -1,0 +1,287 @@
+IQ-TREE multicore version 2.0.7 for Linux 64-bit built Jan 21 2022
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    VDPAM-007799 (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -nt 1 -s results/prrsv_aln-delim.fasta -m GTR -ninit 2 -n 2 -me 0.05
+Seed:    172327 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Apr 20 15:15:33 2023
+Kernel:  AVX+FMA - 1 threads (12 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 12 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file results/prrsv_aln-delim.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 202 sequences with 603 columns, 349 distinct patterns
+302 parsimony-informative, 44 singleton sites, 257 constant sites
+                 Gap/Ambiguity  Composition  p-value
+   1  MZ303980.1         0.00%    passed     86.42%
+   2  MZ303980.1_L1C     0.00%    passed     86.42%
+   3  Seq8_L1A           0.00%    passed     86.42%
+   4  Seq1_L1A           0.00%    passed     95.99%
+   5  Seq6_L1A           0.00%    passed     98.42%
+   6  Seq13_L1A          0.00%    passed     72.84%
+   7  Seq19_L1A          0.00%    passed     94.67%
+   8  Seq22_L1A          0.00%    passed     97.76%
+   9  Seq29_L1A          0.00%    passed     97.35%
+  10  Seq38_L1A          0.00%    passed     86.69%
+  11  Seq24_L1A          0.00%    passed     96.02%
+  12  Seq35_L1A          0.00%    passed     96.88%
+  13  Seq37_L1A          0.00%    passed     98.80%
+  14  Seq23_L1A          0.00%    passed     99.36%
+  15  Seq50_L1A          0.00%    passed     94.42%
+  16  Seq42_L1A          0.00%    passed     97.76%
+  17  Seq39_L1A          0.00%    passed     92.72%
+  18  Seq48_L1A          0.00%    passed     99.93%
+  19  Seq11_L1A          0.00%    passed     96.17%
+  20  Seq53_L1B          0.00%    passed     94.23%
+  21  Seq60_L1B          0.00%    passed     63.87%
+  22  Seq62_L1B          0.00%    passed     63.87%
+  23  Seq64_L1B          0.00%    passed     58.20%
+  24  Seq72_L1B          0.00%    passed     81.99%
+  25  Seq74_L1B          0.00%    passed     64.45%
+  26  Seq63_L1B          0.00%    passed     60.98%
+  27  Seq65_L1B          0.00%    passed     59.95%
+  28  Seq84_L1B          0.00%    passed     67.32%
+  29  Seq90_L1B          0.00%    passed     81.99%
+  30  Seq81_L1B          0.00%    passed     74.90%
+  31  Seq95_L1B          0.00%    passed     84.33%
+  32  Seq88_L1B          0.00%    passed     82.40%
+  33  Seq346_L1G         0.00%    passed     60.82%
+  34  Seq351_L1G         0.00%    passed     80.92%
+  35  Seq355_L1G         0.00%    passed     62.17%
+  36  Seq364_L1G         0.00%    passed     68.19%
+  37  Seq379_L1G         0.00%    passed     47.22%
+  38  Seq363_L1G         0.00%    passed     78.69%
+  39  Seq391_L1G         0.00%    passed     51.50%
+  40  Seq380_L1G         0.00%    passed     68.18%
+  41  Seq361_L1G         0.00%    passed     55.30%
+  42  Seq94_L1B          0.00%    passed     71.90%
+  43  Seq168_L1Dalpha    0.00%    passed     99.97%
+  44  Seq174_L1Dalpha    0.00%    passed     95.83%
+  45  Seq104_L1C         0.00%    passed     96.14%
+  46  Seq109_L1C         0.00%    passed     89.03%
+  47  Seq105_L1C         0.00%    passed     98.86%
+  48  Seq117_L1C         0.00%    passed     92.99%
+  49  Seq124_L1C         0.00%    passed     97.15%
+  50  Seq114_L1C         0.00%    passed     97.00%
+  51  Seq137_L1C         0.00%    passed     91.48%
+  52  Seq140_L1C         0.00%    passed     94.76%
+  53  Seq132_L1C         0.00%    passed     78.00%
+  54  Seq135_L1C         0.00%    passed     96.01%
+  55  Seq120_L1C         0.00%    passed     78.08%
+  56  Seq144_L1C         0.00%    passed     90.64%
+  57  Seq201_L1Dbeta     0.00%    passed     98.28%
+  58  Seq202_L1Dbeta     0.00%    passed     99.75%
+  59  Seq204_L1Dbeta     0.00%    passed     99.53%
+  60  Seq213_L1Dbeta     0.00%    passed     95.16%
+  61  Seq218_L1Dbeta     0.00%    passed     99.86%
+  62  Seq205_L1Dbeta     0.00%    passed     94.94%
+  63  Seq209_L1Dbeta     0.00%    passed     99.90%
+  64  Seq223_L1Dbeta     0.00%    passed     95.73%
+  65  Seq212_L1Dbeta     0.00%    passed     93.17%
+  66  Seq219_L1Dbeta     0.00%    passed     97.43%
+  67  Seq240_L1Dbeta     0.00%    passed     97.31%
+  68  Seq241_L1Dbeta     0.00%    passed     98.91%
+  69  Seq225_L1Dbeta     0.00%    passed     93.72%
+  70  Seq232_L1Dbeta     0.00%    passed     93.24%
+  71  Seq227_L1Dbeta     0.00%    passed     97.32%
+  72  Seq234_L1Dbeta     0.00%    passed     95.96%
+  73  Seq239_L1Dbeta     0.00%    passed     98.97%
+  74  Seq238_L1Dbeta     0.00%    passed     99.73%
+  75  Seq237_L1Dbeta     0.00%    passed     90.02%
+  76  Seq156_L1Dalpha    0.00%    passed     90.35%
+  77  Seq160_L1Dalpha    0.00%    passed     72.27%
+  78  Seq165_L1Dalpha    0.00%    passed     80.36%
+  79  Seq161_L1Dalpha    0.00%    passed     91.39%
+  80  Seq184_L1Dalpha    0.00%    passed     82.46%
+  81  Seq186_L1Dalpha    0.00%    passed     84.61%
+  82  Seq189_L1Dalpha    0.00%    passed     74.99%
+  83  Seq296_L1F         0.00%    passed     97.76%
+  84  Seq320_L1F         0.00%    passed     96.06%
+  85  Seq330_L1F         0.00%    passed     94.51%
+  86  Seq302_L1F         0.00%    passed     99.73%
+  87  Seq319_L1F         0.00%    passed     90.38%
+  88  Seq299_L1F         0.00%    passed     96.28%
+  89  Seq303_L1F         0.00%    passed     84.76%
+  90  Seq314_L1F         0.00%    passed     96.06%
+  91  Seq321_L1F         0.00%    passed     99.36%
+  92  Seq345_L1F         0.00%    passed     99.95%
+  93  Seq324_L1F         0.00%    passed     99.11%
+  94  Seq307_L1F         0.00%    passed     95.42%
+  95  Seq331_L1F         0.00%    passed     76.21%
+  96  Seq335_L1F         0.00%    passed     78.46%
+  97  Seq343_L1F         0.00%    passed     91.89%
+  98  Seq339_L1F         0.00%    passed     97.95%
+  99  Seq340_L1F         0.00%    passed     86.74%
+ 100  Seq341_L1F         0.00%    passed     91.92%
+ 101  Seq396_L1H         0.00%    passed     94.42%
+ 102  Seq397_L1H         0.00%    passed     96.72%
+ 103  Seq407_L1H         0.00%    passed     98.80%
+ 104  Seq400_L1H         0.00%    passed     91.46%
+ 105  Seq439_L1H         0.00%    passed     95.73%
+ 106  Seq401_L1H         0.00%    passed     97.77%
+ 107  Seq434_L1H         0.00%    passed     93.44%
+ 108  Seq417_L1H         0.00%    passed     96.28%
+ 109  Seq422_L1H         0.00%    passed     93.44%
+ 110  Seq432_L1H         0.00%    passed     83.36%
+ 111  Seq406_L1H         0.00%    passed     89.39%
+ 112  Seq408_L1H         0.00%    passed     92.10%
+ 113  Seq440_L1H         0.00%    passed     75.24%
+ 114  Seq443_L1H         0.00%    passed     87.26%
+ 115  Seq442_L1H         0.00%    passed     98.38%
+ 116  Seq423_L1H         0.00%    passed     86.05%
+ 117  Seq248_L1E         0.00%    passed     72.29%
+ 118  Seq262_L1E         0.00%    passed     64.20%
+ 119  Seq268_L1E         0.00%    passed     83.81%
+ 120  Seq269_L1E         0.00%    passed     85.20%
+ 121  Seq258_L1E         0.00%    passed     83.08%
+ 122  Seq254_L1E         0.00%    passed     74.45%
+ 123  Seq274_L1E         0.00%    passed     78.47%
+ 124  Seq265_L1E         0.00%    passed     62.30%
+ 125  Seq286_L1E         0.00%    passed     74.24%
+ 126  Seq291_L1E         0.00%    passed     76.97%
+ 127  Seq255_L1E         0.00%    passed     86.18%
+ 128  Seq281_L1E         0.00%    passed     94.58%
+ 129  Seq273_L1E         0.00%    passed     92.04%
+ 130  Seq253_L1E         0.00%    passed     94.13%
+ 131  Seq287_L1E         0.00%    passed     99.06%
+ 132  Seq192_L1Dalpha    0.00%    passed     99.54%
+ 133  Seq194_L1Dalpha    0.00%    passed     99.80%
+ 134  Seq448_L2          0.00%    passed     77.77%
+ 135  Seq450_L2          0.00%    passed     92.52%
+ 136  Seq453_L2          0.50%    passed     96.26%
+ 137  Seq464_L2          0.50%    passed     91.83%
+ 138  Seq455_L2          0.00%    passed     83.30%
+ 139  Seq465_L2          0.00%    passed     78.90%
+ 140  Seq458_L2          0.00%    passed     71.97%
+ 141  Seq653_L9          0.00%    passed     83.56%
+ 142  Seq668_L9          0.00%    passed     54.68%
+ 143  Seq687_L9          0.00%    passed     61.97%
+ 144  Seq689_L9          0.00%    passed     69.58%
+ 145  Seq662_L9          0.00%    passed     83.56%
+ 146  Seq672_L9          0.00%    passed     70.40%
+ 147  Seq660_L9          0.00%    passed     87.83%
+ 148  Seq682_L9          0.00%    passed     83.39%
+ 149  Seq591_L8          0.00%    passed     95.82%
+ 150  Seq592_L8          0.00%    passed     93.47%
+ 151  Seq629_L8          0.00%    passed     93.47%
+ 152  Seq612_L8          0.00%    passed     93.52%
+ 153  Seq614_L8          0.00%    passed     93.52%
+ 154  Seq639_L8          0.00%    passed     93.52%
+ 155  Seq637_L8          0.00%    passed     94.08%
+ 156  Seq638_L8          0.00%    passed     91.58%
+ 157  Seq635_L8          0.00%    passed     88.28%
+ 158  Seq630_L8          0.00%    passed     96.67%
+ 159  Seq620_L8          0.00%    passed     94.13%
+ 160  Seq593_L8          0.00%    passed     70.61%
+ 161  Seq640_L8          0.00%    passed     76.85%
+ 162  Seq609_L8          0.00%    passed     66.22%
+ 163  Seq626_L8          0.00%    passed     94.72%
+ 164  Seq580_L7          0.00%    passed     68.93%
+ 165  Seq585_L7          0.00%    passed     69.29%
+ 166  Seq655_L9          0.00%    passed     69.80%
+ 167  Seq469_L2          0.00%    passed     88.83%
+ 168  Seq488_L5          0.00%    passed     98.96%
+ 169  Seq497_L5          0.00%    passed     99.23%
+ 170  Seq511_L5          0.00%    passed     98.13%
+ 171  Seq517_L5          0.00%    passed     98.13%
+ 172  Seq514_L5          0.00%    passed     97.58%
+ 173  Seq498_L5          0.00%    passed     93.36%
+ 174  Seq492_L5          0.00%    passed     98.36%
+ 175  Seq494_L5          0.00%    passed     96.45%
+ 176  Seq500_L5          0.00%    passed     98.03%
+ 177  Seq667_L9          0.00%    passed     88.98%
+ 178  Seq674_L9          0.00%    passed     72.58%
+ 179  Seq671_L9          0.00%    passed     79.69%
+ 180  Seq677_L9          0.00%    passed     66.08%
+ 181  Seq690_L9          0.00%    passed     70.01%
+ 182  Seq618_L8          0.00%    passed     92.53%
+ 183  Seq670_L9          0.00%    passed     86.59%
+ 184  Seq475_L4          0.00%    passed     53.04%
+ 185  Seq576_L7          0.00%    passed     95.97%
+ 186  Seq526_L6          0.00%    passed     96.11%
+ 187  Seq528_L6          0.00%    passed     96.04%
+ 188  Seq538_L6          0.00%    passed     75.06%
+ 189  Seq536_L6          0.00%    passed     99.22%
+ 190  Seq551_L6          0.00%    passed     99.88%
+ 191  Seq555_L6          0.00%    passed     96.33%
+ 192  Seq529_L6          0.00%    passed     80.42%
+ 193  Seq560_L6          0.00%    passed     89.02%
+ 194  Seq570_L6          0.00%    passed     96.60%
+ 195  Seq530_L6          0.00%    passed     93.81%
+ 196  Seq537_L6          0.00%    passed     93.08%
+ 197  Seq546_L6          0.00%    passed     70.78%
+ 198  Seq562_L6          0.00%    passed     61.47%
+ 199  Seq564_L6          0.00%    passed     83.47%
+ 200  Seq565_L6          0.00%    passed     83.47%
+ 201  Seq193_L1Dalpha    0.00%    passed     88.55%
+ 202  Seq461_L2          0.00%    passed     75.88%
+****  TOTAL              0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: MZ303980.1_L1C is identical to MZ303980.1 but kept for subsequent analysis
+NOTE: Seq62_L1B is identical to Seq60_L1B but kept for subsequent analysis
+NOTE: Seq629_L8 is identical to Seq592_L8 but kept for subsequent analysis
+NOTE: Seq614_L8 is identical to Seq612_L8 but kept for subsequent analysis
+NOTE: Seq517_L5 is identical to Seq511_L5 but kept for subsequent analysis
+NOTE: Seq565_L6 is identical to Seq564_L6 but kept for subsequent analysis
+NOTE: 2 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Seq8_L1A (identical to MZ303980.1) is ignored but added at the end
+NOTE: Seq639_L8 (identical to Seq612_L8) is ignored but added at the end
+Alignment was printed to results/prrsv_aln-delim.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/prrsv_aln-delim.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.010 seconds
+
+NOTE: 2 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -19843.389
+2. Current log-likelihood: -17890.799
+3. Current log-likelihood: -17886.093
+Optimal log-likelihood: -17886.087
+Rate parameters:  A-C: 1.94322  A-G: 13.83291  A-T: 1.63435  C-G: 0.51111  C-T: 14.88779  G-T: 1.00000
+Base frequencies:  A: 0.212  C: 0.243  G: 0.254  T: 0.291
+Parameters optimization took 3 rounds (0.144 sec)
+Computing ML distances based on estimated model parameters... 0.078 sec
+Computing BIONJ tree...
+0.014 seconds
+Log-likelihood of BIONJ tree: -18113.769
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -17863.975
+Finish initializing candidate tree set (4)
+Current best tree score: -17863.975 / CPU time: 0.147
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -17863.975
+Optimal log-likelihood: -17863.969
+Rate parameters:  A-C: 1.91695  A-G: 13.84878  A-T: 1.62072  C-G: 0.49764  C-T: 14.87543  G-T: 1.00000
+Base frequencies:  A: 0.212  C: 0.243  G: 0.254  T: 0.291
+Parameters optimization took 1 rounds (0.011 sec)
+BEST SCORE FOUND : -17863.969
+Total tree length: 5.657
+
+Total number of iterations: 2
+CPU time used for tree search: 0.125 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.147 sec (0h:0m:0s)
+Total CPU time used: 0.391 sec (0h:0m:0s)
+Total wall-clock time used: 0.446 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                results/prrsv_aln-delim.fasta.iqtree
+  Maximum-likelihood tree:       results/prrsv_aln-delim.fasta.treefile
+  Likelihood distances:          results/prrsv_aln-delim.fasta.mldist
+  Screen log file:               results/prrsv_aln-delim.fasta.log
+
+Date and Time: Thu Apr 20 15:15:33 2023
