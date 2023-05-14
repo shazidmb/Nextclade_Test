@@ -1,3 +1,11 @@
+# Comments
+# Notes: start Nextstrain in WSL
+//1. to start WSL: Click "wsl" in powershell command prompt
+//2. to start Nextstrain: click: nextstrain shell .
+//3. Then go for the following code
+
+# --> Start from here:
+
 #! /usr/bin/env bash
 set -euv
 
@@ -65,10 +73,13 @@ augur export v2 \
 echo "Done! look at results/tree.json"
 
 
-// **Note:tree.json file needs modification by adding following information between "version": "v2" and "genome_annotations" segment: 
+# Note:tree.json file needs modification by adding following information between "version": "v2" and "genome_annotations" segment: 
 
 // --> add the information of meta data like title, updated, build_url etc
 // --> must add the display_defaults
+
+# Validation Error solve in the augur export v2 command:
+// need to change in GFF file: No gap in the gene_name
 
 
 # Copy in the meta entries or maybe use something like

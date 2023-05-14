@@ -1,0 +1,1216 @@
+{
+  "alignment": "results/prrsv_aln.fasta",
+  "generated_by": {
+    "program": "augur",
+    "version": "21.1.0"
+  },
+  "input_tree": "results/tree.nwk",
+  "nodes": {
+    "NODE_0000000": {
+      "branch_length": 0.001
+    },
+    "NODE_0000001": {
+      "branch_length": 0.00166217
+    },
+    "NODE_0000002": {
+      "branch_length": 0.00165995
+    },
+    "NODE_0000003": {
+      "branch_length": 0.00165255
+    },
+    "NODE_0000004": {
+      "branch_length": 0.00471374
+    },
+    "NODE_0000005": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000006": {
+      "branch_length": 0.00166071
+    },
+    "NODE_0000007": {
+      "branch_length": 0.00166753
+    },
+    "NODE_0000008": {
+      "branch_length": 0.00165417
+    },
+    "NODE_0000009": {
+      "branch_length": 0.00978135
+    },
+    "NODE_0000010": {
+      "branch_length": 0.01733846
+    },
+    "NODE_0000011": {
+      "branch_length": 0.02137596
+    },
+    "NODE_0000012": {
+      "branch_length": 0.013518
+    },
+    "NODE_0000013": {
+      "branch_length": 0.02886787
+    },
+    "NODE_0000014": {
+      "branch_length": 0.0100673
+    },
+    "NODE_0000015": {
+      "branch_length": 0.01012353
+    },
+    "NODE_0000016": {
+      "branch_length": 0.01185635
+    },
+    "NODE_0000017": {
+      "branch_length": 0.01449004
+    },
+    "NODE_0000018": {
+      "branch_length": 0.00808897
+    },
+    "NODE_0000019": {
+      "branch_length": 0.00932004
+    },
+    "NODE_0000020": {
+      "branch_length": 0.06416193
+    },
+    "NODE_0000021": {
+      "branch_length": 0.00806671
+    },
+    "NODE_0000022": {
+      "branch_length": 0.01641589
+    },
+    "NODE_0000023": {
+      "branch_length": 0.01380599
+    },
+    "NODE_0000024": {
+      "branch_length": 0.00503799
+    },
+    "NODE_0000025": {
+      "branch_length": 0.001547
+    },
+    "NODE_0000026": {
+      "branch_length": 0.04525934
+    },
+    "NODE_0000027": {
+      "branch_length": 0.00310432
+    },
+    "NODE_0000028": {
+      "branch_length": 0.00966636
+    },
+    "NODE_0000029": {
+      "branch_length": 0.00208883
+    },
+    "NODE_0000030": {
+      "branch_length": 0.01381743
+    },
+    "NODE_0000031": {
+      "branch_length": 0.00373514
+    },
+    "NODE_0000032": {
+      "branch_length": 0.00530797
+    },
+    "NODE_0000033": {
+      "branch_length": 0.02253737
+    },
+    "NODE_0000034": {
+      "branch_length": 0.00839938
+    },
+    "NODE_0000035": {
+      "branch_length": 0.00796562
+    },
+    "NODE_0000036": {
+      "branch_length": 0.02552638
+    },
+    "NODE_0000037": {
+      "branch_length": 0.02923816
+    },
+    "NODE_0000038": {
+      "branch_length": 0.00681762
+    },
+    "NODE_0000039": {
+      "branch_length": 0.00358601
+    },
+    "NODE_0000040": {
+      "branch_length": 0.04567784
+    },
+    "NODE_0000041": {
+      "branch_length": 0.00512449
+    },
+    "NODE_0000042": {
+      "branch_length": 0.00166158
+    },
+    "NODE_0000043": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000044": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000045": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000046": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000047": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000048": {
+      "branch_length": 0.00166011
+    },
+    "NODE_0000049": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000050": {
+      "branch_length": 0.00533663
+    },
+    "NODE_0000051": {
+      "branch_length": 0.03785197
+    },
+    "NODE_0000052": {
+      "branch_length": 0.01128417
+    },
+    "NODE_0000053": {
+      "branch_length": 0.01299934
+    },
+    "NODE_0000054": {
+      "branch_length": 0.00588713
+    },
+    "NODE_0000055": {
+      "branch_length": 0.00940655
+    },
+    "NODE_0000056": {
+      "branch_length": 0.01369686
+    },
+    "NODE_0000057": {
+      "branch_length": 0.02239362
+    },
+    "NODE_0000058": {
+      "branch_length": 0.01777958
+    },
+    "NODE_0000059": {
+      "branch_length": 0.02643524
+    },
+    "NODE_0000060": {
+      "branch_length": 0.00561029
+    },
+    "NODE_0000061": {
+      "branch_length": 0.00543472
+    },
+    "NODE_0000062": {
+      "branch_length": 0.00876282
+    },
+    "NODE_0000063": {
+      "branch_length": 0.0281403
+    },
+    "NODE_0000064": {
+      "branch_length": 0.02364857
+    },
+    "NODE_0000065": {
+      "branch_length": 0.05039224
+    },
+    "NODE_0000066": {
+      "branch_length": 0.02180017
+    },
+    "NODE_0000067": {
+      "branch_length": 0.0072453
+    },
+    "NODE_0000068": {
+      "branch_length": 0.01596922
+    },
+    "NODE_0000069": {
+      "branch_length": 0.03216643
+    },
+    "NODE_0000070": {
+      "branch_length": 0.00840449
+    },
+    "NODE_0000071": {
+      "branch_length": 0.00918005
+    },
+    "NODE_0000072": {
+      "branch_length": 0.07430886
+    },
+    "NODE_0000073": {
+      "branch_length": 0.02047446
+    },
+    "NODE_0000074": {
+      "branch_length": 0.04403449
+    },
+    "NODE_0000075": {
+      "branch_length": 0.01015408
+    },
+    "NODE_0000076": {
+      "branch_length": 0.01045941
+    },
+    "NODE_0000077": {
+      "branch_length": 0.00263203
+    },
+    "NODE_0000078": {
+      "branch_length": 0.00668764
+    },
+    "NODE_0000079": {
+      "branch_length": 0.01401661
+    },
+    "NODE_0000080": {
+      "branch_length": 0.03659921
+    },
+    "NODE_0000081": {
+      "branch_length": 0.02082337
+    },
+    "NODE_0000082": {
+      "branch_length": 0.00901235
+    },
+    "NODE_0000083": {
+      "branch_length": 0.00454184
+    },
+    "NODE_0000084": {
+      "branch_length": 0.01028069
+    },
+    "NODE_0000085": {
+      "branch_length": 0.01853454
+    },
+    "NODE_0000086": {
+      "branch_length": 0.00160607
+    },
+    "NODE_0000087": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000088": {
+      "branch_length": 0.00166208
+    },
+    "NODE_0000089": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000090": {
+      "branch_length": 0.00336057
+    },
+    "NODE_0000091": {
+      "branch_length": 0.00167613
+    },
+    "NODE_0000092": {
+      "branch_length": 0.00338385
+    },
+    "NODE_0000093": {
+      "branch_length": 0.00156992
+    },
+    "NODE_0000094": {
+      "branch_length": 0.00838171
+    },
+    "NODE_0000095": {
+      "branch_length": 0.02281524
+    },
+    "NODE_0000096": {
+      "branch_length": 0.01606564
+    },
+    "NODE_0000097": {
+      "branch_length": 0.00110188
+    },
+    "NODE_0000098": {
+      "branch_length": 0.00330528
+    },
+    "NODE_0000099": {
+      "branch_length": 0.0033936
+    },
+    "NODE_0000100": {
+      "branch_length": 0.012077
+    },
+    "NODE_0000101": {
+      "branch_length": 0.01018951
+    },
+    "NODE_0000102": {
+      "branch_length": 0.00346141
+    },
+    "NODE_0000103": {
+      "branch_length": 3e-06
+    },
+    "NODE_0000104": {
+      "branch_length": 0.00832919
+    },
+    "NODE_0000105": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000106": {
+      "branch_length": 0.00165694
+    },
+    "NODE_0000107": {
+      "branch_length": 0.00166187
+    },
+    "NODE_0000108": {
+      "branch_length": 2.55e-06
+    },
+    "NODE_0000109": {
+      "branch_length": 0.00165084
+    },
+    "NODE_0000110": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000111": {
+      "branch_length": 0.00150592
+    },
+    "NODE_0000112": {
+      "branch_length": 0.02474699
+    },
+    "NODE_0000113": {
+      "branch_length": 0.00923197
+    },
+    "NODE_0000114": {
+      "branch_length": 0.01266389
+    },
+    "NODE_0000115": {
+      "branch_length": 0.00512101
+    },
+    "NODE_0000116": {
+      "branch_length": 0.00555258
+    },
+    "NODE_0000117": {
+      "branch_length": 0.00206726
+    },
+    "NODE_0000118": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000119": {
+      "branch_length": 0.00169362
+    },
+    "NODE_0000120": {
+      "branch_length": 0.00138111
+    },
+    "NODE_0000121": {
+      "branch_length": 0.01009595
+    },
+    "NODE_0000122": {
+      "branch_length": 0.01333752
+    },
+    "NODE_0000123": {
+      "branch_length": 0.0077901
+    },
+    "NODE_0000124": {
+      "branch_length": 0.00519657
+    },
+    "NODE_0000125": {
+      "branch_length": 0.00162474
+    },
+    "NODE_0000126": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000127": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000128": {
+      "branch_length": 3e-06
+    },
+    "NODE_0000129": {
+      "branch_length": 0.0048488
+    },
+    "NODE_0000130": {
+      "branch_length": 0.00332258
+    },
+    "NODE_0000131": {
+      "branch_length": 0.00165787
+    },
+    "NODE_0000132": {
+      "branch_length": 0.00165781
+    },
+    "NODE_0000133": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000134": {
+      "branch_length": 0.00718286
+    },
+    "NODE_0000135": {
+      "branch_length": 0.03542234
+    },
+    "NODE_0000136": {
+      "branch_length": 0.02820098
+    },
+    "NODE_0000137": {
+      "branch_length": 0.01349441
+    },
+    "NODE_0000138": {
+      "branch_length": 0.00695585
+    },
+    "NODE_0000139": {
+      "branch_length": 0.00265402
+    },
+    "NODE_0000140": {
+      "branch_length": 0.00345828
+    },
+    "NODE_0000141": {
+      "branch_length": 0.00220861
+    },
+    "NODE_0000142": {
+      "branch_length": 0.00799912
+    },
+    "NODE_0000143": {
+      "branch_length": 0.00542962
+    },
+    "NODE_0000144": {
+      "branch_length": 0.00621887
+    },
+    "NODE_0000145": {
+      "branch_length": 0.00148554
+    },
+    "NODE_0000146": {
+      "branch_length": 0.00697991
+    },
+    "NODE_0000147": {
+      "branch_length": 0.03990908
+    },
+    "NODE_0000148": {
+      "branch_length": 0.01441435
+    },
+    "NODE_0000149": {
+      "branch_length": 0.00296059
+    },
+    "NODE_0000150": {
+      "branch_length": 0.0039307
+    },
+    "NODE_0000151": {
+      "branch_length": 0.00445558
+    },
+    "NODE_0000152": {
+      "branch_length": 0.00166911
+    },
+    "NODE_0000153": {
+      "branch_length": 0.00144125
+    },
+    "NODE_0000154": {
+      "branch_length": 0.00167114
+    },
+    "NODE_0000155": {
+      "branch_length": 2.52e-06
+    },
+    "NODE_0000156": {
+      "branch_length": 0.00166084
+    },
+    "NODE_0000157": {
+      "branch_length": 0.00165005
+    },
+    "NODE_0000158": {
+      "branch_length": 0.00161186
+    },
+    "NODE_0000159": {
+      "branch_length": 0.00179218
+    },
+    "NODE_0000160": {
+      "branch_length": 0.00419951
+    },
+    "NODE_0000161": {
+      "branch_length": 0.00429593
+    },
+    "NODE_0000162": {
+      "branch_length": 0.01315017
+    },
+    "NODE_0000163": {
+      "branch_length": 0.02097062
+    },
+    "NODE_0000164": {
+      "branch_length": 0.00368882
+    },
+    "NODE_0000165": {
+      "branch_length": 0.02496589
+    },
+    "NODE_0000166": {
+      "branch_length": 0.01430457
+    },
+    "NODE_0000167": {
+      "branch_length": 0.03377906
+    },
+    "NODE_0000168": {
+      "branch_length": 0.01532951
+    },
+    "NODE_0000169": {
+      "branch_length": 0.01192155
+    },
+    "NODE_0000170": {
+      "branch_length": 0.01664486
+    },
+    "NODE_0000171": {
+      "branch_length": 0.00320128
+    },
+    "NODE_0000172": {
+      "branch_length": 0.00824829
+    },
+    "NODE_0000173": {
+      "branch_length": 0.00418816
+    },
+    "NODE_0000174": {
+      "branch_length": 0.00603131
+    },
+    "NODE_0000175": {
+      "branch_length": 0.00989183
+    },
+    "NODE_0000176": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000177": {
+      "branch_length": 2.86e-06
+    },
+    "NODE_0000178": {
+      "branch_length": 0.00161018
+    },
+    "NODE_0000179": {
+      "branch_length": 0.00426673
+    },
+    "NODE_0000180": {
+      "branch_length": 0.00328049
+    },
+    "NODE_0000181": {
+      "branch_length": 0.00752995
+    },
+    "NODE_0000182": {
+      "branch_length": 0.02056207
+    },
+    "NODE_0000183": {
+      "branch_length": 0.00519543
+    },
+    "NODE_0000184": {
+      "branch_length": 0.00636215
+    },
+    "NODE_0000185": {
+      "branch_length": 0.02389786
+    },
+    "NODE_0000186": {
+      "branch_length": 0.01671283
+    },
+    "NODE_0000187": {
+      "branch_length": 0.00227968
+    },
+    "NODE_0000188": {
+      "branch_length": 0.00398323
+    },
+    "NODE_0000189": {
+      "branch_length": 0.00347786
+    },
+    "NODE_0000190": {
+      "branch_length": 0.00449266
+    },
+    "NODE_0000191": {
+      "branch_length": 0.00330922
+    },
+    "NODE_0000192": {
+      "branch_length": 0.01529333
+    },
+    "NODE_0000193": {
+      "branch_length": 0.00332256
+    },
+    "NODE_0000194": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000195": {
+      "branch_length": 0.0033799
+    },
+    "NODE_0000196": {
+      "branch_length": 0.00160787
+    },
+    "NODE_0000197": {
+      "branch_length": 0.01000376
+    },
+    "NODE_0000198": {
+      "branch_length": 0.01208123
+    },
+    "NODE_0000199": {
+      "branch_length": 0.02604695
+    },
+    "Seq104_L1C": {
+      "branch_length": 0.00947523
+    },
+    "Seq105_L1C": {
+      "branch_length": 0.00684383
+    },
+    "Seq109_L1C": {
+      "branch_length": 0.01971145
+    },
+    "Seq114_L1C": {
+      "branch_length": 0.02149256
+    },
+    "Seq117_L1C": {
+      "branch_length": 0.02056967
+    },
+    "Seq11_L1A": {
+      "branch_length": 0.0295413
+    },
+    "Seq120_L1C": {
+      "branch_length": 0.00089249
+    },
+    "Seq124_L1C": {
+      "branch_length": 0.02211483
+    },
+    "Seq132_L1C": {
+      "branch_length": 0.03279043
+    },
+    "Seq135_L1C": {
+      "branch_length": 0.04312583
+    },
+    "Seq137_L1C": {
+      "branch_length": 0.03945548
+    },
+    "Seq13_L1A": {
+      "branch_length": 0.02392886
+    },
+    "Seq140_L1C": {
+      "branch_length": 0.02945489
+    },
+    "Seq144_L1C": {
+      "branch_length": 0.03319153
+    },
+    "Seq156_L1Dalpha": {
+      "branch_length": 0.01979039
+    },
+    "Seq160_L1Dalpha": {
+      "branch_length": 1e-06
+    },
+    "Seq161_L1Dalpha": {
+      "branch_length": 0.00501536
+    },
+    "Seq165_L1Dalpha": {
+      "branch_length": 0.01341926
+    },
+    "Seq168_L1Dalpha": {
+      "branch_length": 0.03648857
+    },
+    "Seq174_L1Dalpha": {
+      "branch_length": 0.03186464
+    },
+    "Seq184_L1Dalpha": {
+      "branch_length": 2.43e-06
+    },
+    "Seq186_L1Dalpha": {
+      "branch_length": 0.00165821
+    },
+    "Seq189_L1Dalpha": {
+      "branch_length": 0.01353404
+    },
+    "Seq192_L1Dalpha": {
+      "branch_length": 0.01092488
+    },
+    "Seq193_L1Dalpha": {
+      "branch_length": 0.08515765
+    },
+    "Seq194_L1Dalpha": {
+      "branch_length": 0.01271954
+    },
+    "Seq19_L1A": {
+      "branch_length": 0.00667812
+    },
+    "Seq1_L1A": {
+      "branch_length": 0.02724083
+    },
+    "Seq201_L1Dbeta": {
+      "branch_length": 0.00915824
+    },
+    "Seq202_L1Dbeta": {
+      "branch_length": 1e-06
+    },
+    "Seq204_L1Dbeta": {
+      "branch_length": 0.00334211
+    },
+    "Seq205_L1Dbeta": {
+      "branch_length": 0.01689277
+    },
+    "Seq209_L1Dbeta": {
+      "branch_length": 0.00328219
+    },
+    "Seq212_L1Dbeta": {
+      "branch_length": 0.01466443
+    },
+    "Seq213_L1Dbeta": {
+      "branch_length": 0.00159762
+    },
+    "Seq218_L1Dbeta": {
+      "branch_length": 0.01751402
+    },
+    "Seq219_L1Dbeta": {
+      "branch_length": 0.00490751
+    },
+    "Seq223_L1Dbeta": {
+      "branch_length": 0.00841724
+    },
+    "Seq225_L1Dbeta": {
+      "branch_length": 0.02825383
+    },
+    "Seq227_L1Dbeta": {
+      "branch_length": 0.03109801
+    },
+    "Seq22_L1A": {
+      "branch_length": 0.003334
+    },
+    "Seq232_L1Dbeta": {
+      "branch_length": 0.03081694
+    },
+    "Seq234_L1Dbeta": {
+      "branch_length": 0.00210693
+    },
+    "Seq237_L1Dbeta": {
+      "branch_length": 0.03976128
+    },
+    "Seq238_L1Dbeta": {
+      "branch_length": 0.01906647
+    },
+    "Seq239_L1Dbeta": {
+      "branch_length": 0.00958837
+    },
+    "Seq23_L1A": {
+      "branch_length": 0.01337491
+    },
+    "Seq240_L1Dbeta": {
+      "branch_length": 0.00176725
+    },
+    "Seq241_L1Dbeta": {
+      "branch_length": 0.01685142
+    },
+    "Seq248_L1E": {
+      "branch_length": 0.00506926
+    },
+    "Seq24_L1A": {
+      "branch_length": 0.00331801
+    },
+    "Seq253_L1E": {
+      "branch_length": 0.0162634
+    },
+    "Seq254_L1E": {
+      "branch_length": 0.00666161
+    },
+    "Seq255_L1E": {
+      "branch_length": 0.00284474
+    },
+    "Seq258_L1E": {
+      "branch_length": 0.01004539
+    },
+    "Seq262_L1E": {
+      "branch_length": 0.00500011
+    },
+    "Seq265_L1E": {
+      "branch_length": 0.00669811
+    },
+    "Seq268_L1E": {
+      "branch_length": 0.00166184
+    },
+    "Seq269_L1E": {
+      "branch_length": 0.00499805
+    },
+    "Seq273_L1E": {
+      "branch_length": 0.01802172
+    },
+    "Seq274_L1E": {
+      "branch_length": 0.00504551
+    },
+    "Seq281_L1E": {
+      "branch_length": 0.01739884
+    },
+    "Seq286_L1E": {
+      "branch_length": 0.01180634
+    },
+    "Seq287_L1E": {
+      "branch_length": 0.05974535
+    },
+    "Seq291_L1E": {
+      "branch_length": 0.02381703
+    },
+    "Seq296_L1F": {
+      "branch_length": 1e-06
+    },
+    "Seq299_L1F": {
+      "branch_length": 0.01027947
+    },
+    "Seq29_L1A": {
+      "branch_length": 0.0102216
+    },
+    "Seq302_L1F": {
+      "branch_length": 0.00850156
+    },
+    "Seq303_L1F": {
+      "branch_length": 0.01835921
+    },
+    "Seq307_L1F": {
+      "branch_length": 0.03242877
+    },
+    "Seq314_L1F": {
+      "branch_length": 0.02028166
+    },
+    "Seq319_L1F": {
+      "branch_length": 0.01194188
+    },
+    "Seq320_L1F": {
+      "branch_length": 0.00497704
+    },
+    "Seq321_L1F": {
+      "branch_length": 0.01332762
+    },
+    "Seq324_L1F": {
+      "branch_length": 0.03087495
+    },
+    "Seq330_L1F": {
+      "branch_length": 0.0049924
+    },
+    "Seq331_L1F": {
+      "branch_length": 0.00700842
+    },
+    "Seq335_L1F": {
+      "branch_length": 0.01353315
+    },
+    "Seq339_L1F": {
+      "branch_length": 0.02974766
+    },
+    "Seq340_L1F": {
+      "branch_length": 0.03498116
+    },
+    "Seq341_L1F": {
+      "branch_length": 0.0442013
+    },
+    "Seq343_L1F": {
+      "branch_length": 0.0271815
+    },
+    "Seq345_L1F": {
+      "branch_length": 0.02661575
+    },
+    "Seq346_L1G": {
+      "branch_length": 1e-06
+    },
+    "Seq351_L1G": {
+      "branch_length": 0.0083162
+    },
+    "Seq355_L1G": {
+      "branch_length": 0.00991105
+    },
+    "Seq35_L1A": {
+      "branch_length": 1e-06
+    },
+    "Seq361_L1G": {
+      "branch_length": 0.0193936
+    },
+    "Seq363_L1G": {
+      "branch_length": 0.00498816
+    },
+    "Seq364_L1G": {
+      "branch_length": 0.01673946
+    },
+    "Seq379_L1G": {
+      "branch_length": 0.01675604
+    },
+    "Seq37_L1A": {
+      "branch_length": 0.00165717
+    },
+    "Seq380_L1G": {
+      "branch_length": 0.01562376
+    },
+    "Seq38_L1A": {
+      "branch_length": 0.01169968
+    },
+    "Seq391_L1G": {
+      "branch_length": 0.00838033
+    },
+    "Seq396_L1H": {
+      "branch_length": 0.01686834
+    },
+    "Seq397_L1H": {
+      "branch_length": 0.00337349
+    },
+    "Seq39_L1A": {
+      "branch_length": 0.02189658
+    },
+    "Seq400_L1H": {
+      "branch_length": 0.00317932
+    },
+    "Seq401_L1H": {
+      "branch_length": 0.0051594
+    },
+    "Seq406_L1H": {
+      "branch_length": 2.4e-06
+    },
+    "Seq407_L1H": {
+      "branch_length": 0.01168621
+    },
+    "Seq408_L1H": {
+      "branch_length": 0.0100174
+    },
+    "Seq417_L1H": {
+      "branch_length": 0.02024272
+    },
+    "Seq422_L1H": {
+      "branch_length": 0.01946691
+    },
+    "Seq423_L1H": {
+      "branch_length": 0.02833219
+    },
+    "Seq42_L1A": {
+      "branch_length": 0.01685247
+    },
+    "Seq432_L1H": {
+      "branch_length": 0.01807247
+    },
+    "Seq434_L1H": {
+      "branch_length": 0.01778356
+    },
+    "Seq439_L1H": {
+      "branch_length": 0.00834233
+    },
+    "Seq440_L1H": {
+      "branch_length": 0.01695543
+    },
+    "Seq442_L1H": {
+      "branch_length": 0.01247467
+    },
+    "Seq443_L1H": {
+      "branch_length": 0.02836066
+    },
+    "Seq448_L2": {
+      "branch_length": 0.0364309
+    },
+    "Seq450_L2": {
+      "branch_length": 0.03197711
+    },
+    "Seq453_L2": {
+      "branch_length": 0.02978942
+    },
+    "Seq455_L2": {
+      "branch_length": 0.0481299
+    },
+    "Seq458_L2": {
+      "branch_length": 0.04850104
+    },
+    "Seq461_L2": {
+      "branch_length": 0.07259438
+    },
+    "Seq464_L2": {
+      "branch_length": 0.02974573
+    },
+    "Seq465_L2": {
+      "branch_length": 0.06936396
+    },
+    "Seq469_L2": {
+      "branch_length": 0.06868124
+    },
+    "Seq475_L4": {
+      "branch_length": 0.08065017
+    },
+    "Seq488_L5": {
+      "branch_length": 0.0189225
+    },
+    "Seq48_L1A": {
+      "branch_length": 0.02393482
+    },
+    "Seq492_L5": {
+      "branch_length": 0.0271492
+    },
+    "Seq494_L5": {
+      "branch_length": 0.02941464
+    },
+    "Seq497_L5": {
+      "branch_length": 0.00166084
+    },
+    "Seq498_L5": {
+      "branch_length": 0.00501161
+    },
+    "Seq500_L5": {
+      "branch_length": 0.0401471
+    },
+    "Seq50_L1A": {
+      "branch_length": 0.02186584
+    },
+    "Seq511_L5": {
+      "branch_length": 1e-06
+    },
+    "Seq514_L5": {
+      "branch_length": 0.00499464
+    },
+    "Seq517_L5": {
+      "branch_length": 1e-06
+    },
+    "Seq526_L6": {
+      "branch_length": 0.00332137
+    },
+    "Seq528_L6": {
+      "branch_length": 1e-06
+    },
+    "Seq529_L6": {
+      "branch_length": 0.01622933
+    },
+    "Seq530_L6": {
+      "branch_length": 0.00832694
+    },
+    "Seq536_L6": {
+      "branch_length": 0.00516745
+    },
+    "Seq537_L6": {
+      "branch_length": 0.0118402
+    },
+    "Seq538_L6": {
+      "branch_length": 0.0131905
+    },
+    "Seq53_L1B": {
+      "branch_length": 0.00812925
+    },
+    "Seq546_L6": {
+      "branch_length": 0.01669915
+    },
+    "Seq551_L6": {
+      "branch_length": 0.01009796
+    },
+    "Seq555_L6": {
+      "branch_length": 0.00836994
+    },
+    "Seq560_L6": {
+      "branch_length": 0.0087508
+    },
+    "Seq562_L6": {
+      "branch_length": 0.03405291
+    },
+    "Seq564_L6": {
+      "branch_length": 1e-06
+    },
+    "Seq565_L6": {
+      "branch_length": 1e-06
+    },
+    "Seq570_L6": {
+      "branch_length": 0.02197934
+    },
+    "Seq576_L7": {
+      "branch_length": 0.07591621
+    },
+    "Seq580_L7": {
+      "branch_length": 0.00160105
+    },
+    "Seq585_L7": {
+      "branch_length": 0.00339923
+    },
+    "Seq591_L8": {
+      "branch_length": 0.00499173
+    },
+    "Seq592_L8": {
+      "branch_length": 1e-06
+    },
+    "Seq593_L8": {
+      "branch_length": 0.03828166
+    },
+    "Seq609_L8": {
+      "branch_length": 0.00865088
+    },
+    "Seq60_L1B": {
+      "branch_length": 1e-06
+    },
+    "Seq612_L8": {
+      "branch_length": 0.0
+    },
+    "Seq614_L8": {
+      "branch_length": 1e-06
+    },
+    "Seq618_L8": {
+      "branch_length": 0.07199589
+    },
+    "Seq620_L8": {
+      "branch_length": 0.00322606
+    },
+    "Seq626_L8": {
+      "branch_length": 0.03073102
+    },
+    "Seq629_L8": {
+      "branch_length": 1e-06
+    },
+    "Seq62_L1B": {
+      "branch_length": 1e-06
+    },
+    "Seq630_L8": {
+      "branch_length": 0.00500432
+    },
+    "Seq635_L8": {
+      "branch_length": 0.0049937
+    },
+    "Seq637_L8": {
+      "branch_length": 0.00165993
+    },
+    "Seq638_L8": {
+      "branch_length": 1e-06
+    },
+    "Seq639_L8": {
+      "branch_length": 0.0
+    },
+    "Seq63_L1B": {
+      "branch_length": 0.00665704
+    },
+    "Seq640_L8": {
+      "branch_length": 0.04402704
+    },
+    "Seq64_L1B": {
+      "branch_length": 0.00166019
+    },
+    "Seq653_L9": {
+      "branch_length": 0.01145979
+    },
+    "Seq655_L9": {
+      "branch_length": 0.05311965
+    },
+    "Seq65_L1B": {
+      "branch_length": 0.00832969
+    },
+    "Seq660_L9": {
+      "branch_length": 0.05699847
+    },
+    "Seq662_L9": {
+      "branch_length": 0.03623037
+    },
+    "Seq667_L9": {
+      "branch_length": 0.02167066
+    },
+    "Seq668_L9": {
+      "branch_length": 0.0070129
+    },
+    "Seq670_L9": {
+      "branch_length": 0.06154517
+    },
+    "Seq671_L9": {
+      "branch_length": 0.02131073
+    },
+    "Seq672_L9": {
+      "branch_length": 0.04263962
+    },
+    "Seq674_L9": {
+      "branch_length": 0.02307156
+    },
+    "Seq677_L9": {
+      "branch_length": 0.03605337
+    },
+    "Seq682_L9": {
+      "branch_length": 0.05762146
+    },
+    "Seq687_L9": {
+      "branch_length": 0.01572619
+    },
+    "Seq689_L9": {
+      "branch_length": 0.00713995
+    },
+    "Seq690_L9": {
+      "branch_length": 0.06550064
+    },
+    "Seq6_L1A": {
+      "branch_length": 0.02064777
+    },
+    "Seq72_L1B": {
+      "branch_length": 0.00665093
+    },
+    "Seq74_L1B": {
+      "branch_length": 0.00834216
+    },
+    "Seq81_L1B": {
+      "branch_length": 0.01158969
+    },
+    "Seq84_L1B": {
+      "branch_length": 0.01006695
+    },
+    "Seq88_L1B": {
+      "branch_length": 0.02050772
+    },
+    "Seq8_L1A": {
+      "branch_length": 0.04461956
+    },
+    "Seq90_L1B": {
+      "branch_length": 0.0150597
+    },
+    "Seq94_L1B": {
+      "branch_length": 0.02274522
+    },
+    "Seq95_L1B": {
+      "branch_length": 0.0153344
+    },
+    "U87392.3": {
+      "branch_length": 1e-06
+    },
+    "U87392.3_L5": {
+      "branch_length": 1e-06
+    }
+  }
+}

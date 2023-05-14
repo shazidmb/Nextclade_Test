@@ -1,0 +1,6974 @@
+{
+  "annotations": {
+    "1a replicase": {
+      "end": 7701,
+      "seqid": "../genemap.gff",
+      "start": 190,
+      "strand": "+",
+      "type": "gene"
+    },
+    "1ab_replicase": {
+      "end": 12071,
+      "seqid": "../genemap.gff",
+      "start": 7698,
+      "strand": "+",
+      "type": "gene"
+    },
+    "E_envelope_protein": {
+      "end": 12299,
+      "seqid": "../genemap.gff",
+      "start": 12078,
+      "strand": "+",
+      "type": "gene"
+    },
+    "GP2_envelope_protein": {
+      "end": 12843,
+      "seqid": "../genemap.gff",
+      "start": 12073,
+      "strand": "+",
+      "type": "gene"
+    },
+    "GP3_envelope_protein": {
+      "end": 13460,
+      "seqid": "../genemap.gff",
+      "start": 12696,
+      "strand": "+",
+      "type": "gene"
+    },
+    "GP4_envelope_protein": {
+      "end": 13777,
+      "seqid": "../genemap.gff",
+      "start": 13241,
+      "strand": "+",
+      "type": "gene"
+    },
+    "GP5_envelope_protein": {
+      "end": 14390,
+      "seqid": "../genemap.gff",
+      "start": 13788,
+      "strand": "+",
+      "type": "gene"
+    },
+    "M_matrix_protein": {
+      "end": 14899,
+      "seqid": "../genemap.gff",
+      "start": 14375,
+      "strand": "+",
+      "type": "gene"
+    },
+    "N_nucleocapsid_protein": {
+      "end": 15260,
+      "seqid": "../genemap.gff",
+      "start": 14889,
+      "strand": "+",
+      "type": "gene"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "21.1.0"
+  },
+  "nodes": {
+    "NODE_0000000": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "1a replicase": "MSGILDRCTCTPNARVFMAEGQVYCTRCLSARSLLPLNLQVSELGVLGLFYRPEEPLRWTLPRAFPTVECSPAGACWLSAIFPIARMTSGNLNFQQRMVRVAAELYRAGQLTPAVLKALQVYERGCRWYPIVGPVPGVAVFANSLHVSDKPFPGATHVLTNLPLPQRPKPEDFCPFECAMATVYDIGHDAVMYVAERKVSWAPRGGDEVKFEAVPGELKLIANRLRTSFPPHHTVDMSKFAFTAPGCGVSMRVERQHGCLPADTVPEGNCWWSLFDLLPLEVQNKEIRHANQFGYQTKHGVSGKYLQRRLQVNGLRAVTDLNGPIVVQYFSVKESWIRHLKLAGEPSYSGFEDLLRIRVEPNTSPLADKEEKIFRFGSHKWYGAGKRARKARSCATATVAGRALSVRETRQAKEHEVAGANKAEHLKHYSPPAEGNCGWHCISAIANRMVNSKFETTLPERVRPPDDWATDEDLVNAIQILRLPAALDRNGACTSAKYVLKLEGEHWTVTVTPGMSPSLLPLECVQGCCGHKGGLGSPDAVEVSGFDPACLDRLAEVMHLPSSAIPAALAEMSGDSDRSASPVTTVWTVSQFFARHSGGNHPDQVRLGKIISLCQVIEDCCCSQNKTNRVTPEEVAAKIDLYLRGATNLEECLARLEKARPPRVIDTSFDWDVVLPGVEAATQTIKLPQVNQCRALVPVVTQKSLDNNSVPLTAFSLANYYYRAQGDEVRHRERLTAVLSKLEKVVREEYGLMPTEPGPRPTLPRGLDELKDQMEEDLLKLANAQTTSDMMAWAVEQVDLKTWVKNYPRWTPPPPPPKVQPRKTKPVKSLPERKPVPAPRRKVGSDCGSPVSLGGDVPNSWEDLAVSSPFDLPTPPEPATPSSELVIVSSPQCIFRPATPLSEPAPIPAPRGTVSRPVTPLSEPIPVPAPRRKFQQVKRLSSAAAIPPYQDEPLDLSASSQTEYEASPPAPPQSGGVLGVEGHEAEETLSEISDMSGNIKPASVSSSSSLSSVRITRPKYSAQAIIDSGGPCSGHLQEVKETCLSVMREACDATKLDDPATQEWLSRMWDRVDMLTWRNTSVYQAICTLDGRLKFLPKMILETPPPYPCEFVMMPHTPAPSVGAESDLTIGSVATEDVPRILEKIENVGEMANQGPLAFSEDKPVDDQLVNDPRISSRRPDESTSAPSAGTGGAGSFTDLPPSDGADADGGGPFRTVKRKAERLFDQLSRQVFDLVSHLPVFFSRLFYPGGGYSPGDWGFAAFTLLCLFLCYSYPAFGIAPLLGVFSGSSRRVRMGVFGCWLAFAVGLFKPVSDPVGAACEFDSPECRNILHSFELLKPWDPVRSLVVGPVGLGLAILGRLLGGARCIWHFLLRLGIVADCILAGAYVLSQGRCKKCWGSCIRTAPNEVAFNVFPFTRATRSSLIDLCDRFCAPKGMDPIFLATGWRGCWAGRSPIEQPSEKPIAFAQLDEKKITARTVVAQPYDPNQAVKCLRVLQSGGAMVAKAVPKVVKVSAVPFRAPFFPTGVKVDPDCRVVVDPDTFTAALRSGYSTTNLVLGVGDFAQLNGLKIRQISKPSGGGPHLMAALHVACSMALHMLAGIYVTAVGSCGTGTNDPWCANPFAVPGYGPGSLCTSRLCISQHGLTLPLTALVAGFGIQEIALVVLIFVSIGGMAHRLSCKADMLCVLLAIASYVWVPLTWLLCVFPCWLRCFSLHPLTILWLVFFLISVNMPSGILAMVLLVSLWLLGRYTNVAGLVTPYDIHHYTSGPRGVAALATAPDGTYLAAVRRAALTGRTMLFTPSQLGSLLEGAFRTRKPSLNTVNVIGSSMGSGGVFTIDGKVKCVTAAHVLTGNSARVSGVGFNQMLDFDVKGDFAIADCPNWQGAAPKTQFCTDGWTGRAYWLTSSGVEPGVIGKGFAFCFTACGDSGSPVITEAGELVGVHTGSNKQGGGIVTRPSGQFCNVAPIKLSELSEFFAGPKVPLGDVKVGSHIIKDISEVPSDLCALLAAKPELEGGLSTVQLLCVFFLLWRMMGHAWTPLVAVSFFILNEVLPAVLVRSVFSFGMFVLSWLTPWSAQVLMIRLLTAALNRNRWSLAFFSLGAVTGFVADLAATQGHPLQAVMNLSTYAFLPRMMVVTSPVPVITCGVVHLLAIILYLFKYRGPHHILVGDGVFSAAFFLRYFAEGKLREGVSQSCGMNHESLTGALAMRLNDEDLDFLMKWTDFKCFVSASNMRNAAGQFIEAAYAKALRVELAQLVQVDKVRGTLAKLEAFADTVAPQLSPGDIVVALGHTPVGSIFDLKVGSTKHTLQAIETRVLAGSKMTVARVVDPTPTPPPAPVPIPLPPKVLENGPNAWGDEDRLNKKKRRRMEALGIYVMGGKKYQKFWDKNSGDVFYEEVHNNTDEWECLRVGDPADFDPEKGTLCGHVTIENKAYHVYTSPSGKKFLVPVNPENGRVQWEAAKLSVEQALGMMNVDGELTAKELEKLKRIIDKLQGLTKEQCLNC*",
+        "1ab_replicase": "LAASDLTRCGRGGLVVTETAVKIVKFHNRTFTLGPVNLKVASEVELKDAVEHNQHPVARPIDGGVVLLRSAVPSLIDVLISGADASPKLLAHHGPGNTGIDGTLWDFESEATKEEVALSAQIIQACDIRRGDAPEIGLPYKLYPVRGNPERVKGVLQNTRFGDIPYKTPSDTGSPVHAAACLTPNATPVTDGRSVLATTMPPGFELYVPTIPASVLDYLDSRPDCPKQLTEHGCEDAALKDLSKYDLSTQGFVLPGVLRLVRKYLFAHVGKCPPVHRPSTYPAKNSMAGINGNRFPTKDIQSVPEIDVLCAQAVRENWQTVTPCTLKKQYCGKKKTRTILGTNNFIALAHRAVLSGVTQGFMKKAFNSPIALGKNKFKELQTPVLGRCLEADLASCDRSTPAIVRWFAANLLYELACAEEHLPSYVLNCCHDLLVTQSGAVTKRGGLSSGDPITSVSNTIYSLVIYAQHMVLSYFKSGHPHGLLFLQDQLKFEDMLKVQPLIVYSDDLVLYAESPTMPNYHWWVEHLNLMLGFQTDPKKTAITDSPSFLGCRIINGRQLVPNRDRILAALAYHMKASNVSEYYASAAAILMDSCACLEYDPEWFEELVVGIAQCARKDGYSFPGTPFFMSMWEKLRSNYEGKKSRVCGYCGAPAPYATACGLDVCIYHTHFHQHCPVTIWCGHPAGSGSCSECKSPVGKGTSPLDEVLEQVPYKPPRTVIMHVEQGLTPLDPGRYQTRRGLVSVRRGIRGNEVGLPDGDYASTALLPTCKEINMVAVASNVLRSRFIIGPPGAGKTYWLLQQVQDGDVIYTPTHQTMLDMIRALGTCRFNVPAGTTLQFPVPSRTGPWVRILAGGWCPGKNSFLDEAAYCNHLDVLRLLSKTTLTCLGDFKQLHPVGFDSHCYVFDIMPQTQLKTIWRFGQNICDAIQPDYRDKLMSMVNTTRVTYVEKPVRYGQVLTPYHRDREDDAITIDSSQGATFDVVTLHLPTKDSLNRQRALVAITRARHAIFVYDPHRQLQGLFDLPAKGTPVNLAVHCDGQLIVLDRNNKECTVAQALGNGDKFRATDKRVVDSLRAICADLEGSSSPLPKVAHNLGFYFSPDLTQFAKLPVELAPHWPVVSTQNNEKWPDRLVASLRPIHKYSRACIGAGYMVGPSVFLGTPGVVSYYLTKFVKGGAQVLPETVFSTGRIEVDCREYLDDREREVAASLPHGFIGDVKGTTVGGCHHVTSRYLPRVLPKESVAVVGVSSPGKAAKALCTLTDVYLPDLEAYLHPETQSKCWKMMLDFKEVRLMVWKDKTAYFQLEGRYFTWYQLASYASYIRVPVNSTVYLDPCMGPALCNRRVVGSTHWGADLAVTPYDYGAKIILSSAYHGEMPPGYKILACAEFSLDDPVKYKHTWGFESDTAYLYEFTGNGEDWEDYNDAFRARQEGKIYKATATSLKFYFPPGPVIEPTLGLN*",
+        "E_envelope_protein": "MGSMQSLFDKIGQLFVDAFTEFLVSIVDIIIFLAILFGFTIAGWLVVFCIRLVCSAILRTRPAIHSEQLQKIL*",
+        "GP2_envelope_protein": "MKWGPCKAFLTKLANFLWMLSRSSWCPLLISLYFWPFCLASPSPVGWWSFASDWFAPRYSVRALPFTLSNYRRSYEAFLSQCQVDIPTWGTKHPLGMLWHHKVSTLIDEMVSRRMYRIMEKAGQAAWKQVVSEATLSRISSLDVVAHFQHLAAIEAETCKYLASRLPMLHNLRMTGSNVTIVYNSTLNQVFAIFPTPGSRPKLHDFQQWLIAVHSSIFSSVAASCTLFVVLWLRVPILRTVFGFRWLGAIFLSNSQ*",
+        "GP3_envelope_protein": "MVNSCTFLHIFLCCSFLYSFCCAVVAGSNTTYCFWFPLVRGNFSFELTVNYTVCPPCLTRQAATEIYEPGRSLWCRIGYDRCGEDDHDELGFMIPPGLSSEGHLTGVYAWLAFLSFSYTAQFHPEIFGIGNVSRVYVDIKHQLICAEHDGQNTTLPRHDNISAVFQTYYQHQVDGGNWFHLEWLRPFFSSWLVLNVSWFLRRSPANHVSVRVLQILRPTPPQRQALLSSKTSVALGIATRPLRRFAKSLSAVRR*",
+        "GP4_envelope_protein": "MASSLLFLVVGFKCLLVSQAFACKPCFSSSLADIKTNTTAAASFAVLQDISCLRHRDSASEAIRKIPQCRTAIGTPVYVTITANVTDENYLHSSDLLMLSSCLFYASEMSEKGFKVVFGNVSGIVAVCVNFTSYVQHVKEFTQRSLVVDHVRLLHFMTPETMRWATVLACLFAILLAI*",
+        "GP5_envelope_protein": "MLEKCLTAGCCSRLLSLWCIVPFCFAVLANASNDSSSHLQLIYNLTLCELNGTDWLANKFDWAVESFVIFPVLTHIVSYGALTTSHFLDTVALVTVSTAGFVHGRYVLSSIYAVCALAALTCFVIRFAKNCMSWRYACTRYTNFLLDTKGRLYRWRSPVIIEKRGKVEVEGHLIDLKRVVLDGSVATPITRVSAEQWGRP*",
+        "M_matrix_protein": "MGSSLDDFCHDSTAPQKVLLAFSITYTPVMIYALKVSRGRLLGLLHLLIFLNCAFTFGYMTFAHFQSTNKVALTMGAVVALLWGVYSAIETWKFITSRCRLCLLGRKYILAPAHHVESAARFHPIAANDNHAFVVRRPGSTTVNGTLVPGLKSLVLGGRKAVKQGVVNLVKYAK*",
+        "N_nucleocapsid_protein": "MPNNNGKQQKRKKGDGQPVNQLCQMLGKIIAQQNQSRGKGPGKKNKKKNPEKPHFPLATEDDVRHHFTPSERQLCLSSIQTAFNQGAGTCTLSDSGRISYTVEFSLPTHHTVRLIRVTASPSA*"
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "D34N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R13Q"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V27A",
+          "L28P",
+          "D61N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E3G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R151I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58X",
+          "V102A",
+          "*201X"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E3G",
+          "S32N",
+          "T121I",
+          "A137S",
+          "V185A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A29V",
+          "S66T",
+          "A92G",
+          "A102X"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "S16F",
+          "V27A",
+          "V94I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F25L",
+          "X58N",
+          "X102Y",
+          "A128V",
+          "R164N",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K59R",
+          "T66C",
+          "Y102H"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V124I",
+          "E170G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000016": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A27V",
+          "L47I",
+          "K59H",
+          "D61G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L25F",
+          "N33S",
+          "L41S",
+          "A57G",
+          "G61S",
+          "V114A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R164G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "I189L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G3V",
+          "F23C",
+          "C24F",
+          "F25L",
+          "V29G",
+          "N30S",
+          "N34T",
+          "X58E",
+          "X102L",
+          "L120F",
+          "I121A",
+          "V124G",
+          "F144Y",
+          "P200L",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N33S",
+          "T34A",
+          "S35N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E58D",
+          "A121V",
+          "G164K",
+          "L200P"
+        ],
+        "M_matrix_protein": [
+          "S3T"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2S",
+          "S16F",
+          "S36G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L102H",
+          "R191K",
+          "P200L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000025": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V21A",
+          "V27A",
+          "L28I",
+          "S30N",
+          "S33N",
+          "D58N",
+          "V94A",
+          "L102V",
+          "G104E",
+          "A116G",
+          "G124C",
+          "F127L",
+          "K129R"
+        ],
+        "M_matrix_protein": [
+          "T3A"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A57K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C23Y",
+          "S30N",
+          "K57N",
+          "D58N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000030": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S12L",
+          "N58K",
+          "L102F",
+          "G124C",
+          "Y144F"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000031": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G9C",
+          "D61N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000033": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C9R",
+          "S16F",
+          "K59R",
+          "N61D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L39F",
+          "F127L",
+          "P200L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10Y",
+          "A57D",
+          "X102F",
+          "V124I",
+          "R151K",
+          "K166R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "C24W",
+          "N34T",
+          "X58N",
+          "I111V",
+          "I121T",
+          "I124T",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000038": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N33S",
+          "X58K",
+          "A185V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58E",
+          "I121T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000040": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "S32N",
+          "F39L",
+          "A57K",
+          "X102Y",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V27A",
+          "E58D",
+          "G80S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V64L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000043": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000047": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A26V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "X102Y"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L17F",
+          "N33Y",
+          "X58N",
+          "T66S",
+          "F127L",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "T187X"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C24W",
+          "S32N",
+          "L39F",
+          "A185V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N33S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10Y",
+          "I121V",
+          "V159I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S35H",
+          "V124A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000057": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R4K",
+          "H38Y",
+          "F39S",
+          "X58D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "X187T",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10Y",
+          "A128V",
+          "X187T",
+          "R191K",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A57D",
+          "X58K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10Y",
+          "N34T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000062": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Y102C",
+          "G104R",
+          "E170G",
+          "X187T",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R13Q",
+          "V29A",
+          "N30S",
+          "H38Y",
+          "F39S",
+          "L47I",
+          "D57G",
+          "K58R",
+          "A128V",
+          "K163R",
+          "X187T",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N30D",
+          "N33S",
+          "K59N",
+          "A128V",
+          "Y141H"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S12L",
+          "V27A",
+          "D54E",
+          "L56M",
+          "D57G",
+          "D61N",
+          "I69L",
+          "G104E",
+          "X187T",
+          "P200L",
+          "X201*"
+        ],
+        "M_matrix_protein": [
+          "S3T"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R13Q",
+          "Y102C"
+        ],
+        "M_matrix_protein": [
+          "S4T"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000067": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F101Y",
+          "F127X"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "X58N",
+          "K59R",
+          "T66S",
+          "V91A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000069": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R13Q",
+          "S16F",
+          "L47I",
+          "A57N",
+          "X102Y",
+          "X127L",
+          "A128T",
+          "E170G",
+          "I189V",
+          "R191K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V94X"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "H38Y",
+          "L39S",
+          "X58E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "Q13R",
+          "L15P",
+          "N33S",
+          "I47L",
+          "N57K",
+          "D61Y",
+          "X94V",
+          "V114A",
+          "R151K",
+          "R199H",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F16S",
+          "N34S",
+          "X94V",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000074": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S12L",
+          "F23S",
+          "A26V",
+          "L28P",
+          "N32K",
+          "S34G",
+          "S35N",
+          "V114T",
+          "G171S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000075": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P22L",
+          "A31T",
+          "K32E",
+          "E58K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000076": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000077": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000078": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N57D",
+          "I76V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000079": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K163R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000080": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A26V",
+          "V27A",
+          "L28P",
+          "X94V",
+          "I121V",
+          "L127F",
+          "T128V",
+          "P158S",
+          "E168D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N30S",
+          "N33G",
+          "X58S",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Q13R",
+          "L17F",
+          "W18L",
+          "F25S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000083": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "G33A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000084": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A27V",
+          "V29A",
+          "S30R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000085": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S58N",
+          "V94A",
+          "V124A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000086": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000087": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000088": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000089": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000090": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000091": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000092": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000093": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000094": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L15P",
+          "V27A",
+          "V94I",
+          "R151K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000095": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A26V",
+          "X58K",
+          "V167I",
+          "G170E",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000096": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "K59N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000097": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000098": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "I121T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000099": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000100": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000101": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S32N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000102": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N59S",
+          "T98A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000103": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000104": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000106": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S35N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000107": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000108": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000109": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000111": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "I167V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58E",
+          "I94V",
+          "V124A",
+          "E170N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000113": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P15L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000114": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E58K"
+        ],
+        "M_matrix_protein": [
+          "S3T"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000115": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V94I",
+          "R178K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000116": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L28P",
+          "V29T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000117": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000118": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000119": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "H172Q"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000120": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000121": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V91I",
+          "K178R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000122": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "N34S",
+          "A124T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000123": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000124": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000125": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000126": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000127": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000128": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000129": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Y102C",
+          "I125V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000130": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58R",
+          "G104R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000131": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000132": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000133": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000134": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10Y",
+          "N33S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000135": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V124A",
+          "T128A",
+          "E168D",
+          "V192I"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000136": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "X58N",
+          "I94M",
+          "V114T",
+          "C138F",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000137": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "X58K",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000138": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G104R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000139": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000140": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "S33N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000141": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K59N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000142": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L120F",
+          "P158S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000143": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F25L",
+          "R104G",
+          "K191R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000144": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "I94V",
+          "R104G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000145": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000146": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000147": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "X58N",
+          "K59H",
+          "D61S",
+          "K151R",
+          "V167I",
+          "H172D",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000148": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C11Y",
+          "I94V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000149": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000150": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000151": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000152": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F25L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000153": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G104R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000154": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G164R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000155": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000156": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G104E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000157": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000158": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000159": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000160": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000161": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L152I",
+          "I167V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000162": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "S33N",
+          "E104K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000163": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V72A",
+          "K104Q",
+          "I111V",
+          "V124I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000164": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000165": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "T7I",
+          "A27V",
+          "X58N",
+          "I94V",
+          "V124I",
+          "G170E",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000166": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V192I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000167": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G3V",
+          "X58N",
+          "F87L",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000168": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G171S",
+          "K191R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000169": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S171N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000170": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Y106R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000171": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000172": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58K",
+          "K59S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000173": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000174": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "I94V",
+          "I121T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000175": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000176": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000177": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000178": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000179": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000180": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000181": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "T7I",
+          "Y102C"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "X58K",
+          "I160V",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000183": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G3E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K151N",
+          "K163R",
+          "V189I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000185": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E3G",
+          "N30S",
+          "N32S",
+          "S33N",
+          "G171D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000186": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L14S",
+          "P15L",
+          "K59N",
+          "V91A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000187": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000188": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V160I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000189": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000190": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E3G",
+          "V159I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000191": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000192": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58S",
+          "V72A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000193": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S33G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000194": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000195": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000196": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000197": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E3G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000198": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Q13R",
+          "N30S",
+          "H172Y",
+          "P200L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "NODE_0000199": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58K",
+          "T128A",
+          "G198C"
+        ],
+        "M_matrix_protein": [
+          "G2V",
+          "S4T"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq104_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C24F",
+          "N57D",
+          "V72A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq105_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N33S",
+          "Y102C"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq109_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Q13R",
+          "N34G",
+          "K58N",
+          "D61N",
+          "H103R",
+          "I121T",
+          "K166R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq114_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C24W",
+          "N34T",
+          "R104K",
+          "I121V",
+          "G198C"
+        ],
+        "M_matrix_protein": [
+          "G2V",
+          "S3P"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq117_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "T7I",
+          "L17F",
+          "A26V",
+          "N57S",
+          "K59R",
+          "A63V",
+          "I94V",
+          "V114A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq11_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F16S",
+          "F25L",
+          "N34S",
+          "N59T",
+          "T128S",
+          "V192I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq120_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq124_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P22L",
+          "L41S",
+          "D54E",
+          "N57S",
+          "K58E",
+          "V72A",
+          "T95A",
+          "L120S",
+          "T148S",
+          "G170R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq132_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S32G",
+          "N34D",
+          "N57K",
+          "K58E",
+          "V64A",
+          "L127F",
+          "C138F",
+          "P158S",
+          "R178T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq135_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P15L",
+          "A27V",
+          "N34G",
+          "L41S",
+          "K58N",
+          "N59H",
+          "Y102H",
+          "I121V",
+          "I192V"
+        ],
+        "M_matrix_protein": [
+          "I5L"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq137_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A26V",
+          "S32D",
+          "N57G",
+          "V72A",
+          "T90S",
+          "T95I",
+          "Y102H",
+          "I121V",
+          "G170R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq13_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "L39F",
+          "N57D",
+          "K58Q",
+          "Y102C",
+          "Y106H",
+          "P158S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq140_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "P15L",
+          "A26V",
+          "L39I",
+          "N57S",
+          "V91I",
+          "I121A",
+          "A128V",
+          "K163R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq144_L1C": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S12L",
+          "A26V",
+          "S33N",
+          "N34S",
+          "N58G",
+          "K59R",
+          "D61Y",
+          "K166R"
+        ],
+        "M_matrix_protein": [
+          "S3A"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq156_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C19Y",
+          "E58K",
+          "K59N",
+          "Y102C",
+          "G171S",
+          "P200L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq160_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq161_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E58D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq165_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "D57G",
+          "E58K",
+          "A63T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq168_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P15L",
+          "N32S",
+          "S33N",
+          "Y101F",
+          "K151R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq174_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Y10C",
+          "N58H",
+          "K59R",
+          "G164M"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq184_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq186_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N35S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq189_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S16F",
+          "S39T",
+          "K59N",
+          "D61N",
+          "V189L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq192_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E58D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq193_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A8T",
+          "G9A",
+          "Q13R",
+          "L14S",
+          "F16S",
+          "C19Y",
+          "F25L",
+          "N30D",
+          "N32S",
+          "L45M",
+          "X58D",
+          "G92A",
+          "X94A",
+          "V107I",
+          "V124A",
+          "R151K",
+          "R156K",
+          "G170E",
+          "L173Q",
+          "D182E",
+          "V192I",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq194_L1Dalpha": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V27A",
+          "N32S",
+          "S33G",
+          "K57G",
+          "Y61S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq19_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "I94T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq1_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L39F",
+          "N59S",
+          "T98A",
+          "G104K",
+          "T128A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq201_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C19Y",
+          "S35N",
+          "N57D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq202_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq204_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2S",
+          "L39V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq205_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S32D",
+          "G33S",
+          "S35N",
+          "L41S",
+          "R135L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq209_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P15L",
+          "N57D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq212_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P15L",
+          "I20T",
+          "F23S",
+          "C24W",
+          "K59R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq213_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq218_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S32N",
+          "N57D",
+          "K59N",
+          "T90M",
+          "Q196R",
+          "P200L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq219_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F16S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq223_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S32N",
+          "K59N",
+          "D61G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq225_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Q13H",
+          "S33N",
+          "S35N",
+          "K58N",
+          "I94V",
+          "V159I",
+          "G164E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq227_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C19Y",
+          "G33S",
+          "N58H",
+          "Y102F",
+          "T187N",
+          "G198D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq22_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq232_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "E3G",
+          "L28I",
+          "L39M",
+          "V91A",
+          "I94A",
+          "Y102L",
+          "L120S",
+          "P158S",
+          "K163R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq234_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S35N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq237_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2S",
+          "Q13R",
+          "A31V",
+          "S32G",
+          "S33A",
+          "N34S",
+          "N57D",
+          "S97T",
+          "Y102C",
+          "G171D",
+          "H172Q",
+          "V189I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq238_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N57D",
+          "K58E",
+          "V124A",
+          "T128I",
+          "R178K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq239_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N33S",
+          "K58E",
+          "N59H",
+          "T90A",
+          "Y106H",
+          "V160I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq23_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq240_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S32N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq241_L1Dbeta": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S30N",
+          "S32G",
+          "K58Q"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq248_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L18S",
+          "V189I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq24_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S34N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq253_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V29T",
+          "X58E",
+          "F87L",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq254_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34D",
+          "S35N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq255_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq258_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "D61N",
+          "C115S",
+          "S158P",
+          "P188L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq262_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq265_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P28L",
+          "Y102C"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq268_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A27V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq269_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G104R",
+          "R151K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq273_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10Y",
+          "V107I",
+          "V128A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq274_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34D",
+          "S35N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq281_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2S",
+          "S32D",
+          "A33K",
+          "S35R",
+          "S58N",
+          "Y106H"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq286_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "G104E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq287_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C19Y",
+          "F23S",
+          "P28L",
+          "N32S",
+          "S36R",
+          "K59N",
+          "V124M",
+          "R163K",
+          "D168E",
+          "G171D",
+          "V192I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq291_L1E": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2S",
+          "K4R",
+          "V21A",
+          "S25F",
+          "V29I",
+          "G33K",
+          "N58D",
+          "V114A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq296_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq299_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G9D",
+          "N32D",
+          "S61G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq29_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G104R",
+          "V192I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq302_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A26V",
+          "S35N",
+          "N57D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq303_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V29A",
+          "N32H",
+          "E104K",
+          "R199H"
+        ],
+        "M_matrix_protein": [
+          "L5V"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq307_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N57D",
+          "N58G",
+          "L82R",
+          "V91A",
+          "Y102C",
+          "E104K",
+          "R151K",
+          "R164K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq314_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L25F",
+          "S33N",
+          "K58E",
+          "V72A",
+          "T98A",
+          "Y102C",
+          "E104K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq319_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32D",
+          "H103R",
+          "V114A",
+          "Y141H"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq320_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S35N",
+          "V114A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq321_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58D",
+          "G104K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq324_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C11Y",
+          "N32S",
+          "N57S",
+          "T90M",
+          "Y102F",
+          "R104K",
+          "I111L",
+          "V192I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq330_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58D",
+          "G92S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq331_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L25F",
+          "N57K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq335_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L41S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq339_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A27V",
+          "S33N",
+          "S36G",
+          "S61N",
+          "Y102C",
+          "H103N"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq340_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "L45M",
+          "D54E",
+          "Y102C",
+          "V124I",
+          "L127S",
+          "Y141H"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq341_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2W",
+          "N32S",
+          "S33G",
+          "N57A",
+          "N58D",
+          "F87L",
+          "G104E",
+          "T128A",
+          "R151K",
+          "K163R",
+          "G198C"
+        ],
+        "M_matrix_protein": [
+          "G2V"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq343_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "P15L",
+          "L25F",
+          "A27V",
+          "L41S",
+          "S61G",
+          "V68I",
+          "K104N",
+          "R164G",
+          "I167V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq345_L1F": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Y10C",
+          "A26V",
+          "N32D",
+          "S33N",
+          "N57S",
+          "V91A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq346_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq351_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "T90A",
+          "Y106H"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq355_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq35_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq361_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L14S",
+          "N33T",
+          "K58N",
+          "Y102C",
+          "G104S"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq363_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58E",
+          "Y102C"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq364_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "P28L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq379_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G164K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq37_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq380_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "T7I",
+          "N32D",
+          "N57D",
+          "S109T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq38_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S59K",
+          "V189I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq391_L1G": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L41S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq396_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32D",
+          "S59R",
+          "G104R",
+          "I192T"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq397_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq39_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S34G",
+          "N59K",
+          "V107I",
+          "T121I",
+          "I167V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq400_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A27V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq401_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq406_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq407_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "S33N",
+          "K58E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq408_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "T128A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq417_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N57D",
+          "K58G",
+          "S59N",
+          "D61N",
+          "Y102R"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq422_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "T98A",
+          "G104E",
+          "L120F",
+          "F123L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq423_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "I121V",
+          "K151R",
+          "E168D",
+          "G170E",
+          "I192V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq42_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V91A",
+          "Y102C",
+          "K163R",
+          "G198C",
+          "P200R"
+        ],
+        "M_matrix_protein": [
+          "G2V"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq432_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58E",
+          "S59N",
+          "I94A",
+          "T128A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq434_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N171T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq439_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N57D",
+          "R191K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq440_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq442_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58D",
+          "Y102W",
+          "I121V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq443_L1H": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C11Y",
+          "P15L",
+          "N32A",
+          "K58E",
+          "S59R",
+          "N171S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq448_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R4S",
+          "L15H",
+          "V29A",
+          "N30D",
+          "N33S",
+          "H38N",
+          "L47I",
+          "N58D",
+          "A185V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq450_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R4K",
+          "C10Y",
+          "N32S",
+          "N34S",
+          "N58D",
+          "V77I",
+          "Y102F",
+          "I189V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq453_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L15P",
+          "D54N",
+          "N58D",
+          "A114T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq455_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2S",
+          "C10Y",
+          "L15P",
+          "N34D",
+          "L39M",
+          "I76V",
+          "F87L",
+          "I94T",
+          "T98V",
+          "I111V",
+          "K129R",
+          "R151K",
+          "I189L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq458_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R13Q",
+          "F39I",
+          "D57K",
+          "K58D",
+          "R104K",
+          "L120F",
+          "V185A",
+          "T187A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq461_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10F",
+          "R13Q",
+          "C24W",
+          "A26T",
+          "N30S",
+          "N33Q",
+          "S35N",
+          "H38Q",
+          "X58N",
+          "K59N",
+          "X102C",
+          "I121V",
+          "A128T",
+          "Y141H",
+          "K163R",
+          "R164G",
+          "H172Q",
+          "T187N",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq464_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R4K",
+          "L45M",
+          "F87L",
+          "I94V",
+          "F101Y",
+          "Y106C",
+          "V128A",
+          "G171S",
+          "D175E",
+          "I189V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq465_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L14S",
+          "N30S",
+          "N32S",
+          "N34G",
+          "S35N",
+          "T90A",
+          "F127L",
+          "Y141H",
+          "N164K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq469_L2": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C24W",
+          "N33S",
+          "N34T",
+          "S35G",
+          "L45M",
+          "A57K",
+          "X58G",
+          "A128V",
+          "R164K",
+          "E170D",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq475_L4": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A8V",
+          "R13Q",
+          "C19Y",
+          "N32D",
+          "N33S",
+          "L41S",
+          "D54N",
+          "N58D",
+          "T90A",
+          "V94I",
+          "T95V",
+          "X102F",
+          "I121T",
+          "V124I",
+          "X127L",
+          "I189V",
+          "R191K",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq488_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Q13R",
+          "C19Y",
+          "P28S",
+          "N33S",
+          "G80S",
+          "G104E",
+          "R178K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq48_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S34G",
+          "V91I",
+          "I94V",
+          "A98V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq492_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10Y",
+          "A29V",
+          "S32N",
+          "N33S",
+          "K59R",
+          "V124A",
+          "Y141H",
+          "R178K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq494_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S16F",
+          "A26V",
+          "A29V",
+          "N30D",
+          "D58G",
+          "V102F"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq497_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R151K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq498_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S12L",
+          "N33D",
+          "N34S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq500_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A8V",
+          "A26V",
+          "V27A",
+          "N34S",
+          "X58N",
+          "A102S",
+          "V124A",
+          "R191K",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq50_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A8V",
+          "S34G",
+          "R58K",
+          "S59N",
+          "A98T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq511_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq514_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34T"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq517_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq526_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S33G",
+          "G104R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq528_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq529_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Y23C",
+          "V27L",
+          "V94I",
+          "L102I",
+          "G198E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq530_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F120L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq536_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "D54E",
+          "K59N",
+          "G104R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq537_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58E",
+          "T95A",
+          "F120C",
+          "F127L",
+          "R151K",
+          "H172N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq538_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N58D",
+          "L88I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq53_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "N33S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq546_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A8V",
+          "L28P",
+          "A57K",
+          "G104E",
+          "A185V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq551_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L15P",
+          "L41S",
+          "A57V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq555_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "D58N"
+        ],
+        "M_matrix_protein": [
+          "T3A"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq560_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C5Y",
+          "S33G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq562_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S16F",
+          "I20T",
+          "S33R",
+          "S36G",
+          "T98A",
+          "L102S",
+          "I125V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq564_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq565_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq570_L6": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G29D",
+          "S32N",
+          "N57D",
+          "N58K"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq576_L7": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G9V",
+          "S16F",
+          "F23S",
+          "A26V",
+          "V27A",
+          "L28P",
+          "V29A",
+          "H38Y",
+          "L39S",
+          "V94A",
+          "X102Y",
+          "V114A",
+          "X127L",
+          "R151K",
+          "G164R",
+          "K166R",
+          "A185E",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq580_L7": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq585_L7": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "Y33S"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq591_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "D58N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq592_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq593_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2S",
+          "C10Y",
+          "T66A",
+          "X102R",
+          "V124A",
+          "G164R",
+          "L200P",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq609_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S32G",
+          "D57G",
+          "K59N",
+          "G104R",
+          "Q196R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq60_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq612_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq614_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq618_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S12L",
+          "L15P",
+          "W18L",
+          "V27A",
+          "N30S",
+          "N33G",
+          "X58K",
+          "T95A",
+          "F102V",
+          "G104Q",
+          "I125V",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq620_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "V192I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq626_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A8V",
+          "R13Q",
+          "S32N",
+          "S35I",
+          "L41S",
+          "D54E",
+          "D57N",
+          "K59R",
+          "T90A",
+          "F102L",
+          "G104E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq629_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq62_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq630_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C24W",
+          "S80R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq635_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K57R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq637_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C10Y"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq638_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq639_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq63_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N44D",
+          "K59N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq640_L8": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "G9R",
+          "S16F",
+          "C24W",
+          "F25S",
+          "V29G",
+          "S32N",
+          "N34S",
+          "L41S",
+          "V94A",
+          "X102F",
+          "G104R",
+          "G164K",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq64_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq653_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "D57N",
+          "V114I",
+          "X187T",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq655_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C11Y",
+          "A26V",
+          "V27A",
+          "N33D",
+          "N34S",
+          "X58E",
+          "K59N",
+          "D61N",
+          "I125V",
+          "K166R",
+          "X187T",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq65_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32D",
+          "Y153H"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq660_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F39L",
+          "D54E",
+          "X58G",
+          "K59R",
+          "V94A",
+          "Y102L",
+          "G104R",
+          "V114I",
+          "V124A",
+          "M132L",
+          "Y141H",
+          "X187T",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq662_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L15P",
+          "C19Y",
+          "N32D",
+          "N33S",
+          "T34A",
+          "S35N",
+          "K59E",
+          "V124I",
+          "R178K"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq667_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "R13Q",
+          "S16F",
+          "F25L",
+          "L28P",
+          "V29A",
+          "D58G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq668_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "D30G"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq670_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N34S",
+          "H38Y",
+          "F39S",
+          "X58D",
+          "I69L",
+          "F127L",
+          "C138Y",
+          "L146Q",
+          "E170D",
+          "V185A",
+          "X187T",
+          "L189I",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq671_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S12L",
+          "S33G",
+          "R151K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq672_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "G57S",
+          "R58G",
+          "V72A",
+          "F101Y",
+          "V124A",
+          "Y141H",
+          "Q196R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq674_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N30D",
+          "S33N",
+          "N34T",
+          "H35S",
+          "K59R",
+          "V192I"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq677_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K4R",
+          "R13Q",
+          "L15P",
+          "S16F",
+          "P22L",
+          "F23S",
+          "N32S",
+          "S39F",
+          "L41S",
+          "Y102C",
+          "V114F",
+          "I121V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq682_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "A8V",
+          "K59H",
+          "C102W",
+          "Y106F",
+          "I121T",
+          "V124I",
+          "R178K",
+          "Q196R",
+          "P200L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq687_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32D",
+          "M56I",
+          "K58T",
+          "N59H",
+          "H103R",
+          "E104G",
+          "R191K"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq689_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C102R"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq690_L9": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S16F",
+          "W18L",
+          "X58N",
+          "V91I",
+          "Y102F",
+          "V107I",
+          "A128T",
+          "V185A",
+          "X187T",
+          "Q196R",
+          "X201*"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq6_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N59S",
+          "I94S",
+          "T98A",
+          "L146V"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq72_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N57D",
+          "Y102C"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq74_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "S34N",
+          "P200L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq81_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "K58E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq84_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L41S",
+          "N44K",
+          "N57D",
+          "G104E",
+          "N170D"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq88_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "F23S",
+          "N57G",
+          "K58R",
+          "Q196L"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq8_L1A": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "C19Y",
+          "V26A",
+          "A27V",
+          "S32G",
+          "N33S",
+          "S35N",
+          "K58E",
+          "N59H",
+          "T90A",
+          "Y141H",
+          "T187N"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq90_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N30D",
+          "N33S",
+          "S34N",
+          "K58E"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq94_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "L2S"
+        ],
+        "M_matrix_protein": [
+          "L5I"
+        ],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "Seq95_L1B": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [
+          "N32S",
+          "S34N",
+          "K58N",
+          "V94A"
+        ],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "U87392.3": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    },
+    "U87392.3_L5": {
+      "aa_muts": {
+        "1a replicase": [],
+        "1ab_replicase": [],
+        "E_envelope_protein": [],
+        "GP2_envelope_protein": [],
+        "GP3_envelope_protein": [],
+        "GP4_envelope_protein": [],
+        "GP5_envelope_protein": [],
+        "M_matrix_protein": [],
+        "N_nucleocapsid_protein": []
+      }
+    }
+  },
+  "reference": {
+    "1a replicase": "MSGILDRCTCTPNARVFMAEGQVYCTRCLSARSLLPLNLQVSELGVLGLFYRPEEPLRWTLPRAFPTVECSPAGACWLSAIFPIARMTSGNLNFQQRMVRVAAELYRAGQLTPAVLKALQVYERGCRWYPIVGPVPGVAVFANSLHVSDKPFPGATHVLTNLPLPQRPKPEDFCPFECAMATVYDIGHDAVMYVAERKVSWAPRGGDEVKFEAVPGELKLIANRLRTSFPPHHTVDMSKFAFTAPGCGVSMRVERQHGCLPADTVPEGNCWWSLFDLLPLEVQNKEIRHANQFGYQTKHGVSGKYLQRRLQVNGLRAVTDLNGPIVVQYFSVKESWIRHLKLAGEPSYSGFEDLLRIRVEPNTSPLADKEEKIFRFGSHKWYGAGKRARKARSCATATVAGRALSVRETRQAKEHEVAGANKAEHLKHYSPPAEGNCGWHCISAIANRMVNSKFETTLPERVRPPDDWATDEDLVNAIQILRLPAALDRNGACTSAKYVLKLEGEHWTVTVTPGMSPSLLPLECVQGCCGHKGGLGSPDAVEVSGFDPACLDRLAEVMHLPSSAIPAALAEMSGDSDRSASPVTTVWTVSQFFARHSGGNHPDQVRLGKIISLCQVIEDCCCSQNKTNRVTPEEVAAKIDLYLRGATNLEECLARLEKARPPRVIDTSFDWDVVLPGVEAATQTIKLPQVNQCRALVPVVTQKSLDNNSVPLTAFSLANYYYRAQGDEVRHRERLTAVLSKLEKVVREEYGLMPTEPGPRPTLPRGLDELKDQMEEDLLKLANAQTTSDMMAWAVEQVDLKTWVKNYPRWTPPPPPPKVQPRKTKPVKSLPERKPVPAPRRKVGSDCGSPVSLGGDVPNSWEDLAVSSPFDLPTPPEPATPSSELVIVSSPQCIFRPATPLSEPAPIPAPRGTVSRPVTPLSEPIPVPAPRRKFQQVKRLSSAAAIPPYQDEPLDLSASSQTEYEASPPAPPQSGGVLGVEGHEAEETLSEISDMSGNIKPASVSSSSSLSSVRITRPKYSAQAIIDSGGPCSGHLQEVKETCLSVMREACDATKLDDPATQEWLSRMWDRVDMLTWRNTSVYQAICTLDGRLKFLPKMILETPPPYPCEFVMMPHTPAPSVGAESDLTIGSVATEDVPRILEKIENVGEMANQGPLAFSEDKPVDDQLVNDPRISSRRPDESTSAPSAGTGGAGSFTDLPPSDGADADGGGPFRTVKRKAERLFDQLSRQVFDLVSHLPVFFSRLFYPGGGYSPGDWGFAAFTLLCLFLCYSYPAFGIAPLLGVFSGSSRRVRMGVFGCWLAFAVGLFKPVSDPVGAACEFDSPECRNILHSFELLKPWDPVRSLVVGPVGLGLAILGRLLGGARCIWHFLLRLGIVADCILAGAYVLSQGRCKKCWGSCIRTAPNEVAFNVFPFTRATRSSLIDLCDRFCAPKGMDPIFLATGWRGCWAGRSPIEQPSEKPIAFAQLDEKKITARTVVAQPYDPNQAVKCLRVLQSGGAMVAKAVPKVVKVSAVPFRAPFFPTGVKVDPDCRVVVDPDTFTAALRSGYSTTNLVLGVGDFAQLNGLKIRQISKPSGGGPHLMAALHVACSMALHMLAGIYVTAVGSCGTGTNDPWCANPFAVPGYGPGSLCTSRLCISQHGLTLPLTALVAGFGIQEIALVVLIFVSIGGMAHRLSCKADMLCVLLAIASYVWVPLTWLLCVFPCWLRCFSLHPLTILWLVFFLISVNMPSGILAMVLLVSLWLLGRYTNVAGLVTPYDIHHYTSGPRGVAALATAPDGTYLAAVRRAALTGRTMLFTPSQLGSLLEGAFRTRKPSLNTVNVIGSSMGSGGVFTIDGKVKCVTAAHVLTGNSARVSGVGFNQMLDFDVKGDFAIADCPNWQGAAPKTQFCTDGWTGRAYWLTSSGVEPGVIGKGFAFCFTACGDSGSPVITEAGELVGVHTGSNKQGGGIVTRPSGQFCNVAPIKLSELSEFFAGPKVPLGDVKVGSHIIKDISEVPSDLCALLAAKPELEGGLSTVQLLCVFFLLWRMMGHAWTPLVAVSFFILNEVLPAVLVRSVFSFGMFVLSWLTPWSAQVLMIRLLTAALNRNRWSLAFFSLGAVTGFVADLAATQGHPLQAVMNLSTYAFLPRMMVVTSPVPVITCGVVHLLAIILYLFKYRGPHHILVGDGVFSAAFFLRYFAEGKLREGVSQSCGMNHESLTGALAMRLNDEDLDFLMKWTDFKCFVSASNMRNAAGQFIEAAYAKALRVELAQLVQVDKVRGTLAKLEAFADTVAPQLSPGDIVVALGHTPVGSIFDLKVGSTKHTLQAIETRVLAGSKMTVARVVDPTPTPPPAPVPIPLPPKVLENGPNAWGDEDRLNKKKRRRMEALGIYVMGGKKYQKFWDKNSGDVFYEEVHNNTDEWECLRVGDPADFDPEKGTLCGHVTIENKAYHVYTSPSGKKFLVPVNPENGRVQWEAAKLSVEQALGMMNVDGELTAKELEKLKRIIDKLQGLTKEQCLNC*",
+    "1ab_replicase": "LAASDLTRCGRGGLVVTETAVKIVKFHNRTFTLGPVNLKVASEVELKDAVEHNQHPVARPIDGGVVLLRSAVPSLIDVLISGADASPKLLAHHGPGNTGIDGTLWDFESEATKEEVALSAQIIQACDIRRGDAPEIGLPYKLYPVRGNPERVKGVLQNTRFGDIPYKTPSDTGSPVHAAACLTPNATPVTDGRSVLATTMPPGFELYVPTIPASVLDYLDSRPDCPKQLTEHGCEDAALKDLSKYDLSTQGFVLPGVLRLVRKYLFAHVGKCPPVHRPSTYPAKNSMAGINGNRFPTKDIQSVPEIDVLCAQAVRENWQTVTPCTLKKQYCGKKKTRTILGTNNFIALAHRAVLSGVTQGFMKKAFNSPIALGKNKFKELQTPVLGRCLEADLASCDRSTPAIVRWFAANLLYELACAEEHLPSYVLNCCHDLLVTQSGAVTKRGGLSSGDPITSVSNTIYSLVIYAQHMVLSYFKSGHPHGLLFLQDQLKFEDMLKVQPLIVYSDDLVLYAESPTMPNYHWWVEHLNLMLGFQTDPKKTAITDSPSFLGCRIINGRQLVPNRDRILAALAYHMKASNVSEYYASAAAILMDSCACLEYDPEWFEELVVGIAQCARKDGYSFPGTPFFMSMWEKLRSNYEGKKSRVCGYCGAPAPYATACGLDVCIYHTHFHQHCPVTIWCGHPAGSGSCSECKSPVGKGTSPLDEVLEQVPYKPPRTVIMHVEQGLTPLDPGRYQTRRGLVSVRRGIRGNEVGLPDGDYASTALLPTCKEINMVAVASNVLRSRFIIGPPGAGKTYWLLQQVQDGDVIYTPTHQTMLDMIRALGTCRFNVPAGTTLQFPVPSRTGPWVRILAGGWCPGKNSFLDEAAYCNHLDVLRLLSKTTLTCLGDFKQLHPVGFDSHCYVFDIMPQTQLKTIWRFGQNICDAIQPDYRDKLMSMVNTTRVTYVEKPVRYGQVLTPYHRDREDDAITIDSSQGATFDVVTLHLPTKDSLNRQRALVAITRARHAIFVYDPHRQLQGLFDLPAKGTPVNLAVHCDGQLIVLDRNNKECTVAQALGNGDKFRATDKRVVDSLRAICADLEGSSSPLPKVAHNLGFYFSPDLTQFAKLPVELAPHWPVVSTQNNEKWPDRLVASLRPIHKYSRACIGAGYMVGPSVFLGTPGVVSYYLTKFVKGGAQVLPETVFSTGRIEVDCREYLDDREREVAASLPHGFIGDVKGTTVGGCHHVTSRYLPRVLPKESVAVVGVSSPGKAAKALCTLTDVYLPDLEAYLHPETQSKCWKMMLDFKEVRLMVWKDKTAYFQLEGRYFTWYQLASYASYIRVPVNSTVYLDPCMGPALCNRRVVGSTHWGADLAVTPYDYGAKIILSSAYHGEMPPGYKILACAEFSLDDPVKYKHTWGFESDTAYLYEFTGNGEDWEDYNDAFRARQEGKIYKATATSLKFYFPPGPVIEPTLGLN*",
+    "E_envelope_protein": "MGSMQSLFDKIGQLFVDAFTEFLVSIVDIIIFLAILFGFTIAGWLVVFCIRLVCSAILRTRPAIHSEQLQKIL*",
+    "GP2_envelope_protein": "MKWGPCKAFLTKLANFLWMLSRSSWCPLLISLYFWPFCLASPSPVGWWSFASDWFAPRYSVRALPFTLSNYRRSYEAFLSQCQVDIPTWGTKHPLGMLWHHKVSTLIDEMVSRRMYRIMEKAGQAAWKQVVSEATLSRISSLDVVAHFQHLAAIEAETCKYLASRLPMLHNLRMTGSNVTIVYNSTLNQVFAIFPTPGSRPKLHDFQQWLIAVHSSIFSSVAASCTLFVVLWLRVPILRTVFGFRWLGAIFLSNSQ*",
+    "GP3_envelope_protein": "MVNSCTFLHIFLCCSFLYSFCCAVVAGSNTTYCFWFPLVRGNFSFELTVNYTVCPPCLTRQAATEIYEPGRSLWCRIGYDRCGEDDHDELGFMIPPGLSSEGHLTGVYAWLAFLSFSYTAQFHPEIFGIGNVSRVYVDIKHQLICAEHDGQNTTLPRHDNISAVFQTYYQHQVDGGNWFHLEWLRPFFSSWLVLNVSWFLRRSPANHVSVRVLQILRPTPPQRQALLSSKTSVALGIATRPLRRFAKSLSAVRR*",
+    "GP4_envelope_protein": "MASSLLFLVVGFKCLLVSQAFACKPCFSSSLADIKTNTTAAASFAVLQDISCLRHRDSASEAIRKIPQCRTAIGTPVYVTITANVTDENYLHSSDLLMLSSCLFYASEMSEKGFKVVFGNVSGIVAVCVNFTSYVQHVKEFTQRSLVVDHVRLLHFMTPETMRWATVLACLFAILLAI*",
+    "GP5_envelope_protein": "MLEKCLTAGCCSRLLSLWCIVPFCFAVLANASNDSSSHLQLIYNLTLCELNGTDWLANKFDWAVESFVIFPVLTHIVSYGALTTSHFLDTVALVTVSTAGFVHGRYVLSSIYAVCALAALTCFVIRFAKNCMSWRYACTRYTNFLLDTKGRLYRWRSPVIIEKRGKVEVEGHLIDLKRVVLDGSVATPITRVSAEQWGRP*",
+    "M_matrix_protein": "MGSSLDDFCHDSTAPQKVLLAFSITYTPVMIYALKVSRGRLLGLLHLLIFLNCAFTFGYMTFAHFQSTNKVALTMGAVVALLWGVYSAIETWKFITSRCRLCLLGRKYILAPAHHVESAARFHPIAANDNHAFVVRRPGSTTVNGTLVPGLKSLVLGGRKAVKQGVVNLVKYAK*",
+    "N_nucleocapsid_protein": "MPNNNGKQQKRKKGDGQPVNQLCQMLGKIIAQQNQSRGKGPGKKNKKKNPEKPHFPLATEDDVRHHFTPSERQLCLSSIQTAFNQGAGTCTLSDSGRISYTVEFSLPTHHTVRLIRVTASPSA*"
+  }
+}
